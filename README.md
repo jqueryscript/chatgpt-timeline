@@ -1,7 +1,13 @@
-This is a timeline of ChatGPT, the fastest-growing consumer software application in history. From its humble beginnings to becoming a revolutionary force in tech, we'll trace its journey and milestones. _**Last Update: June 14, 2023**_
+A timeline of ChatGPT: major events, milestones, controversies, etc.
 
 Timeline of ChatGPT
 ------------------------------------------
+
+- [2023](#2023)
+- [2022](#2022)
+- [2020](#2020)
+- [2019](#2019)
+- [2018](#2018)
 
 ## 2023
 
