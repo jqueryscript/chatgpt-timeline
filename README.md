@@ -93,44 +93,6 @@ The latest major GPT model in this timeline is GPT-5.5, released on April 23, 20
 
 GPT-5.5 is positioned for complex work across coding, research, data analysis, documents, spreadsheets, computer use, and agent workflows. GPT-5.5 Pro is available for higher-accuracy work. OpenAI also made GPT-5.5 and GPT-5.5 Pro available in the API on April 24, 2026.
 
-## How To Use This Repository
-
-You can use this repository to:
-
-- Check GPT and ChatGPT release dates
-- Reference OpenAI model history in docs, articles, and presentations
-- Track major ChatGPT product changes
-- Compare model generations over time
-- Suggest corrections through issues or pull requests
-
-## Suggested Repository Topics
-
-Use these GitHub topics to help readers find the repo:
-
-```text
-chatgpt
-openai
-gpt
-gpt-5
-ai-timeline
-llm
-codex
-sora
-```
-
-## Contributing
-
-Corrections and updates are welcome.
-
-When suggesting a change, please include:
-
-- The model, product, or milestone name
-- The exact release date
-- A primary source link when available
-- A short note explaining the change
-
-For larger updates, open an issue first so the timeline stays consistent.
-
 ## Source Article
 
 This repository is maintained as a companion resource for the full article:
