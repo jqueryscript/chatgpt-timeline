@@ -4,6 +4,8 @@ A public timeline of major OpenAI GPT model releases, ChatGPT product updates, a
 
 This repository is built as a clean reference for ChatGPT and GPT release history. It covers GPT-1, GPT-2, GPT-3, ChatGPT, GPT-4, GPT-4o, OpenAI reasoning models, GPT-5, Codex, Sora, ChatGPT Images, and GPT-5.5.
 
+> [Claude Timeline](https://github.com/jqueryscript/anthropic-claude-timeline)
+
 Last updated: May 10, 2026
 
 ## What This Timeline Covers
