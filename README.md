@@ -1,75 +1,155 @@
-A timeline of ChatGPT: major events, milestones, controversies, etc.
+# ChatGPT Timeline
 
-Timeline of ChatGPT
-------------------------------------------
+A public timeline of major OpenAI GPT model releases, ChatGPT product updates, and related OpenAI milestones.
 
-- [2023](#2023)
-- [2022](#2022)
-- [2020](#2020)
-- [2019](#2019)
-- [2018](#2018)
+This repository is built as a clean reference for ChatGPT and GPT release history. It covers GPT-1, GPT-2, GPT-3, ChatGPT, GPT-4, GPT-4o, OpenAI reasoning models, GPT-5, Codex, Sora, ChatGPT Images, and GPT-5.5.
 
-## 2023
+Last updated: May 10, 2026
 
-| Date    | Event                    | Details                                                                                                                                                                                                                                                                                                                                                                           |
-|---------|--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| June 08 | ChatGPT iOS app          | OpenAI's ChatGPT app for iOS has received a major update that includes improved iPad support and integration with Apple Shortcuts.                                                                                                                                                                                                                                         |
-| June 08 | GPT-5                    | OpenAI CEO Sam Altman confirmed on Wednesday that the company is not currently training GPT-5, the successor to its powerful AI language model GPT-4.                                                                                                                                                                                                                     |
-| May 30  | ChatGPT iOS app          | The ChatGPT iOS app is now available in 152 countries and regions.                                                                                                                                                                                                                                                                                                         |
-| May 25  | OpenAI                   | OpenAI Threatens to Leave EU Over AI Act.                                                                                                                                                                                                                                                                                                                                  |
-| May 19  | ChatGPT For iOS          | OpenAI has released an official ChatGPT app for iOS.                                                                                                                                                                                                                                                                                                                              |
-| May 16  | OpenAI                   | OpenAI CEO Calls for New AI Regulatory Agency to Protect Against Misuse.                                                                                                                                                                                                                                                                                                          |
-| May 13  | Web Browsing             | The web browsing feature in ChatGPT was introduced on May 12, 2023. This feature was initially available only to ChatGPT Plus users.                                                                                                                                                                                                                                              |
-| May 02  | OpenAI                   | ChatGPT creator says there’s 50% chance AI ends in 'doom'.                                                                                                                                                                                                                                                                                                                 |
-| Apr 28  | OpenAI                   | OpenAI closes $300M share sale at $27B-29B valuation.                                                                                                                                                                                                                                                                                                                      |
-| Apr 28  | Back In Italy            | ChatGPT back in Italy after OpenAI met regulators’ privacy demands.                                                                                                                                                                                                                                                                                                        |
-| Apr 19  | Data Protection          | Germany launches data protection inquiry over ChatGPT.                                                                                                                                                                                                                                                                                                                     |
-| Apr 19  | OpenAI                   | OpenAI CEO Sam Altman has said that the era of ever-larger artificial intelligence models is coming to an end, as cost constraints and diminishing returns curb the relentless scaling that has defined the field for years.Source                                                                                                                                                |
-| Mar 20  | ChatGPT outage           | OpenAI took ChatGPT offline earlier this week due to a bug in an open-source library which allowed some users to see titles from another active user’s chat history. It’s also possible that the first message of a newly-created conversation was visible in someone else’s chat history if both users were active around the same time.                                  |
-| Mar 14  | ChatGPT Plugins          | OpenAI implemented initial support for plugins in ChatGPT. Plugins are tools designed specifically for language models with safety as a core principle, and help ChatGPT access up-to-date information, run computations, or use third-party services.                                                                                                                     |
-| Mar 14  | GPT-4 Release            | OpenAI announced GPT-4, the latest milestone in OpenAI’s effort in scaling up deep learning. GPT-4 is a large multimodal model (accepting image and text inputs, emitting text outputs) that, while less capable than humans in many real-world scenarios, exhibits human-level performance on various professional and academic benchmarks.                               |
-| Mar 01  | ChatGPT and Whisper APIs | Developers can now integrate ChatGPT and Whisper models into their apps and products through our API.                                                                                                                                                                                                                                                                      |
-| Feb 07  | Google Bard              | Google presents its own AI chatbot called Bard, which is similar to ChatGPT. Google CEO Sundar Pichai says that Bard is more powerful and reliable than ChatGPT, as it draws on information from the web to provide fresh, high-quality responses. Bard is part of a series of tools based on generative artificial intelligence that Google launches to the market at this time. |
-| Feb 07  | Bing ChatGPT             | Reinventing search with a new AI-powered Microsoft Bing and Edge, your copilot for the web.                                                                                                                                                                                                                                                                                |
-| Feb 05  | Anthropic/Claude         | Google is investing $300M in an OpenAI challenger that will take on ChatGPT while focusing on A.I. safety.                                                                                                                                                                                                                                                                 |
-| Feb 02  | 100 million users        | ChatGPT reaches 100 million users two months after launch.                                                                                                                                                                                                                                                                                                                 |
-| Feb 01  | ChatGPT Plus             | OpenAI launched a pilot subscription plan for ChatGPT. The new subscription plan, ChatGPT Plus, will be available for $20/month.                                                                                                                                                                                                                                           |
-| Jan 26  | ChatGPT                  | ChatGPT passes exams from law and business schools.                                                                                                                                                                                                                                                                                                                        |
-| Jan 14  | Microsoft                | Microsoft in talks to acquire a 49% stake in ChatGPT owner OpenAI.                                                                                                                                                                                                                                                                                                         |
-| Jan 09  | Microsoft                | Microsoft is looking at OpenAI’s GPT for Word, Outlook, and PowerPoint.                                                                                                                                                                                                                                                                                                    |
+## What This Timeline Covers
 
-## 2022
+- GPT model release dates
+- ChatGPT product milestones
+- OpenAI reasoning model releases
+- Codex and coding-agent updates
+- Sora and video generation releases
+- ChatGPT Images and image generation updates
+- Major OpenAI API and developer platform milestones
 
-| Date   | Event           | Details                                                                                                                                                                                                                                                      |
-|--------|-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Nov 30 | ChatGPT release | OpenAI released a model called ChatGPT, which interacts in a conversational way. The dialogue format makes it possible for ChatGPT to answer followup questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests. |
-| Mar 15 | GPT-3.5 release | OpenAI released GPT-3.5.                                                                                                                                                                                                                                     |
+## Quick Release Table: Newest First
 
-## 2020
+| Model or Product | Release Date | Key Highlight |
+|---|---:|---|
+| GPT-5.5 | April 23, 2026 | Frontier model for coding, research, computer use, documents, spreadsheets, and long-running work. |
+| ChatGPT Images 2.0 | April 21, 2026 | New ChatGPT image generation experience and model generation. |
+| GPT-5.4 mini and nano | March 17, 2026 | Smaller GPT-5.4 models for faster and lower-cost workloads. |
+| GPT-5.4 | March 5, 2026 | Frontier model for professional work across reasoning, coding, agents, and tool use. |
+| GPT-5.3-Codex-Spark | February 12, 2026 | Ultra-fast research preview model for real-time coding in Codex. |
+| GPT-5.3-Codex | February 5, 2026 | Agentic coding model for professional software and computer-based work. |
+| GPT-5.2-Codex | December 18, 2025 | Agentic coding model for complex software engineering and defensive cybersecurity. |
+| GPT Image 1.5 | December 16, 2025 | Improved ChatGPT Images model with faster generation and stronger editing. |
+| GPT-5.2 | December 11, 2025 | Frontier model series for professional knowledge work and long-running agents. |
+| GPT-5.1 | November 12, 2025 | ChatGPT update with GPT-5.1 Instant and GPT-5.1 Thinking. |
+| Sora 2 | September 30, 2025 | Video and audio generation model with stronger physics, realism, and control. |
+| GPT-5 | August 7, 2025 | Unified GPT-5 system for ChatGPT and developers. |
+| Codex | May 16, 2025 | Cloud-based software engineering agent. |
+| OpenAI o3 and o4-mini | April 16, 2025 | Reasoning models with tool use across ChatGPT. |
+| GPT-4.1 | April 14, 2025 | API model series for coding, instruction following, and long context. |
+| 4o image generation | March 25, 2025 | Native image generation in GPT-4o and ChatGPT. |
+| GPT-4.5 | February 27, 2025 | Research preview of a larger GPT model for chat. |
+| OpenAI o3-mini | January 31, 2025 | Cost-efficient reasoning model for STEM, coding, and math. |
+| OpenAI o1-preview | September 12, 2024 | First public reasoning model series from OpenAI. |
+| ChatGPT search | October 31, 2024 | Web search experience inside ChatGPT. |
+| Canvas | October 3, 2024 | Separate workspace for writing and coding with ChatGPT. |
+| GPT-4o | May 13, 2024 | Omni model for text, audio, vision, and real-time interaction. |
+| ChatGPT plugins | March 23, 2023 | Early tool system for ChatGPT, later deprecated. |
+| GPT-4 | March 14, 2023 | Large multimodal model with text and image input. |
+| ChatGPT Plus | February 1, 2023 | Paid ChatGPT subscription plan. |
+| ChatGPT | November 30, 2022 | Public research preview of ChatGPT. |
+| GPT-3 | May 28, 2020 | 175B-parameter language model for few-shot learning. |
+| GPT-2 | February 14, 2019 | Large unsupervised language model and staged release milestone. |
+| GPT-1 | June 11, 2018 | Early generative pre-training system for language understanding. |
 
-| Date    | Event         | Details                                                                                                                                                    |
-|---------|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| June 11 | GPT-3 release | OpenAI released GPT-3. GPT-3 contained even more parameters (around 116 times more than GPT-2), and was a stronger and faster version of its predecessors. |
-| June 11 | OpenAI API    | OpenAI released an API for accessing new AI models.                                                                                                 |
+## Full Timeline
 
-## 2019
+| Date | Milestone |
+|---:|---|
+| June 2018 | OpenAI published the first GPT research system through work on generative pre-training for language understanding. |
+| February 2019 | GPT-2 was introduced as a larger unsupervised language model. OpenAI used a staged release process because of misuse concerns. |
+| May 2020 | GPT-3 was introduced as a 175B-parameter language model that showed strong few-shot learning. |
+| November 30, 2022 | ChatGPT launched as a public research preview. |
+| February 1, 2023 | ChatGPT Plus launched as a paid subscription plan. |
+| March 14, 2023 | GPT-4 launched as a multimodal model with text and image input. |
+| March 23, 2023 | ChatGPT plugins launched as an early way for ChatGPT to use tools and external services. |
+| July 2023 | GPT-4 API access became generally available to paying API customers. |
+| May 13, 2024 | GPT-4o launched as a faster omni model for text, audio, vision, and real-time interaction. |
+| September 12, 2024 | OpenAI introduced o1-preview, the first model in its reasoning series. |
+| October 3, 2024 | Canvas launched as a separate workspace for writing and coding with ChatGPT. |
+| October 31, 2024 | ChatGPT search launched for web answers with source links. |
+| January 31, 2025 | OpenAI o3-mini launched as a smaller reasoning model for STEM, math, and coding. |
+| February 27, 2025 | GPT-4.5 launched as a research preview of a larger GPT model for chat. |
+| March 25, 2025 | OpenAI introduced native image generation in GPT-4o. |
+| April 14, 2025 | GPT-4.1, GPT-4.1 mini, and GPT-4.1 nano launched in the API. |
+| April 16, 2025 | OpenAI o3 and o4-mini launched as reasoning models with access to ChatGPT tools. |
+| May 16, 2025 | Codex launched as OpenAI's cloud-based software engineering agent. |
+| August 7, 2025 | GPT-5 launched as a unified system in ChatGPT and the API. |
+| September 30, 2025 | Sora 2 launched as a video and audio generation model. |
+| November 12, 2025 | GPT-5.1 launched in ChatGPT as GPT-5.1 Instant and GPT-5.1 Thinking. |
+| November 13, 2025 | GPT-5.1 became available for developers in the API. |
+| December 11, 2025 | GPT-5.2 launched for professional knowledge work and long-running agents. |
+| December 16, 2025 | GPT Image 1.5 launched through the new ChatGPT Images experience. |
+| December 18, 2025 | GPT-5.2-Codex launched for agentic coding and cybersecurity-related software work. |
+| February 5, 2026 | GPT-5.3-Codex launched for long-running coding, research, and computer-based work. |
+| February 12, 2026 | GPT-5.3-Codex-Spark launched as an ultra-fast research preview for real-time coding. |
+| March 5, 2026 | GPT-5.4 launched in ChatGPT, the API, and Codex for professional work. |
+| March 17, 2026 | GPT-5.4 mini and GPT-5.4 nano launched for faster and lower-cost use cases. |
+| April 21, 2026 | ChatGPT Images 2.0 launched as a new image generation experience. |
+| April 23, 2026 | GPT-5.5 launched for advanced coding, research, computer use, knowledge work, and agentic workflows. |
+| April 24, 2026 | GPT-5.5 and GPT-5.5 Pro became available in the API. |
 
-| Date    | Event                       | Details                                                                                                                                                                                                                                                                                                                                 |
-|---------|-----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Nov 05  | GPT-2: 1.5B release         | As the final model release of GPT-2's staged release, OpenAI's releasing the largest version (1.5B parameters) of GPT-2 along with code and model weights to facilitate detection of outputs of GPT-2 models.                                                                                                                    |
-| Aug 20  | GPT-2: 6-month follow-up    | OpenAI's releasing the 774 million parameter GPT-2 language model after the release of our small 124M model in February, staged release of our medium 355M model in May, and subsequent research with partners and the AI community into the model’s potential for misuse and societal benefit.                                  |
-| July 22 | Microsoft invests in OpenAI | Microsoft invests in and partners with OpenAI to support them building beneficial AGI.                                                                                                                                                                                                                                           |
-| Feb 14  | GPT-2 Release               | OpenAI trained a large-scale unsupervised language model which generates coherent paragraphs of text, achieves state-of-the-art performance on many language modeling benchmarks, and performs rudimentary reading comprehension, machine translation, question answering, and summarization—all without task-specific training. |
+## Latest OpenAI Model
 
-## 2018
+The latest major GPT model in this timeline is GPT-5.5, released on April 23, 2026.
 
-| Date    | Event       | Details                                                             |
-|---------|-------------|---------------------------------------------------------------------|
-| June 11 | GPT Release | Improving language understanding with unsupervised learning. |
+GPT-5.5 is positioned for complex work across coding, research, data analysis, documents, spreadsheets, computer use, and agent workflows. GPT-5.5 Pro is available for higher-accuracy work. OpenAI also made GPT-5.5 and GPT-5.5 Pro available in the API on April 24, 2026.
 
-References:
------------
+## How To Use This Repository
 
-*   [Timeline of ChatGPT](https://timelines.issarice.com/wiki/Timeline_of_ChatGPT)
-*   [OpenAI](https://openai.com/)
-*   [ChatGPT, GenerativeAI and LLMs Timeline](https://github.com/hollobit/GenAI_LLM_timeline)
+You can use this repository to:
+
+- Check GPT and ChatGPT release dates
+- Reference OpenAI model history in docs, articles, and presentations
+- Track major ChatGPT product changes
+- Compare model generations over time
+- Suggest corrections through issues or pull requests
+
+## Suggested Repository Topics
+
+Use these GitHub topics to help readers find the repo:
+
+```text
+chatgpt
+openai
+gpt
+gpt-5
+ai-timeline
+llm
+codex
+sora
+```
+
+## Contributing
+
+Corrections and updates are welcome.
+
+When suggesting a change, please include:
+
+- The model, product, or milestone name
+- The exact release date
+- A primary source link when available
+- A short note explaining the change
+
+For larger updates, open an issue first so the timeline stays consistent.
+
+## Source Article
+
+This repository is maintained as a companion resource for the full article:
+
+[ChatGPT Timeline: GPT Release Dates From GPT-1 to GPT-5.5](https://www.scriptbyai.com/timeline-of-chatgpt/)
+
+The article includes a readable web version of the timeline, more context on GPT model generations, and related AI resources.
+
+## Related Resources
+
+- [Anthropic Claude Timeline](https://www.scriptbyai.com/anthropic-claude-timeline/)
+- [AI LLM API Pricing](https://www.scriptbyai.com/gpt-gemini-claude-pricing/)
+- [ChatGPT Resources](https://www.scriptbyai.com/chatgpt/)
+
+## Disclaimer
+
+This repository is an independent timeline resource. It is not affiliated with OpenAI.
+
+## License
+
+This repository is available under the MIT License.
+
