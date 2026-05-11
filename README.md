@@ -6,7 +6,7 @@ This repository is built as a clean reference for ChatGPT and GPT release histor
 
 > [Claude Timeline](https://github.com/jqueryscript/anthropic-claude-timeline)
 
-Last updated: May 10, 2026
+Last updated: May 11, 2026
 
 ## What This Timeline Covers
 
