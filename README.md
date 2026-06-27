@@ -22,7 +22,7 @@ Last updated: June 27, 2026
 
 | Model or Product | Release Date | Key Highlight |
 |---|---:|---|
-| GPT-5.6 Sol | June 27, 2026 | OpenAI preview page for the next GPT-5 generation model. |
+| GPT-5.6 Sol, Terra, and Luna | June 27, 2026 | Limited preview of the GPT-5.6 series, with Sol as the flagship model, Terra for balanced work, and Luna for fast lower-cost work. |
 | GPT-5.5 | April 23, 2026 | Frontier model for coding, research, computer use, documents, spreadsheets, and long-running work. |
 | ChatGPT Images 2.0 | April 21, 2026 | New ChatGPT image generation experience and model generation. |
 | GPT-5.4 mini and nano | March 17, 2026 | Smaller GPT-5.4 models for faster and lower-cost workloads. |
@@ -89,13 +89,17 @@ Last updated: June 27, 2026
 | April 21, 2026 | ChatGPT Images 2.0 launched as a new image generation experience. |
 | April 23, 2026 | GPT-5.5 launched for advanced coding, research, computer use, knowledge work, and agentic workflows. |
 | April 24, 2026 | GPT-5.5 and GPT-5.5 Pro became available in the API. |
-| June 27, 2026 | OpenAI published an official preview page for GPT-5.6 Sol, the next named model in the GPT-5 generation. |
+| June 27, 2026 | OpenAI began a limited preview of the GPT-5.6 series: Sol, its flagship model; Terra, a balanced model for everyday work; and Luna, a fast and affordable model. Initial access is through the API and Codex for selected trusted partners. |
 
 ## Latest OpenAI Model
 
-The latest major GPT model in this timeline is GPT-5.6 Sol, previewed by OpenAI on June 27, 2026.
+The latest major GPT model in this timeline is GPT-5.6 Sol, introduced in limited preview on June 27, 2026.
 
-GPT-5.6 Sol is the next named model in the GPT-5 generation. OpenAI published the GPT-5.6 Sol preview page as another step toward more capable ChatGPT models and agentic workflows.
+GPT-5.6 Sol is OpenAI's strongest model in the announcement. The GPT-5.6 series also includes Terra for balanced everyday work, with competitive performance to GPT-5.5 at half the cost, and Luna as the fast, lowest-cost model in the series. During the preview, GPT-5.6 models are available through the API and Codex to selected trusted partners, with broader ChatGPT, Codex, and API availability planned soon. OpenAI says the short-term limited preview follows engagement with the U.S. government.
+
+GPT-5.6 adds max reasoning effort for Sol and an ultra mode that can use subagents for complex work. OpenAI cites improved agentic capabilities in coding, biology, and cybersecurity, including Terminal-Bench 2.1, GeneBench v1, ExploitBench, and ExploitGym results. OpenAI says Sol did not cross the Cyber Critical threshold in the reported tests and that it used more than 700,000 A100-equivalent GPU hours for automated red teaming.
+
+API pricing is listed per 1 million tokens: Sol at $5 input and $30 output, Terra at $2.50 input and $15 output, and Luna at $1 input and $6 output. GPT-5.6 also adds explicit cache breakpoints, a 30-minute minimum cache life, cache writes billed at 1.25x the uncached input rate, and a 90% cached-input discount for cache reads. OpenAI also plans to launch GPT-5.6 Sol on Cerebras at up to 750 tokens per second in July for selected customers.
 
 ## Source Article
 
