@@ -2,11 +2,11 @@
 
 A public timeline of major OpenAI GPT model releases, ChatGPT product updates, and related OpenAI milestones.
 
-This repository is built as a clean reference for ChatGPT and GPT release history. It covers GPT-1, GPT-2, GPT-3, ChatGPT, GPT-4, GPT-4o, OpenAI reasoning models, GPT-5, Codex, Sora, ChatGPT Images, and GPT-5.5.
+This repository is built as a clean reference for ChatGPT and GPT release history. It covers GPT-1, GPT-2, GPT-3, ChatGPT, GPT-4, GPT-4o, OpenAI reasoning models, GPT-5, Codex, Sora, ChatGPT Images, GPT-5.5, and GPT-5.6.
 
 > [Claude Timeline](https://github.com/jqueryscript/anthropic-claude-timeline)
 
-Last updated: May 11, 2026
+Last updated: June 27, 2026
 
 ## What This Timeline Covers
 
@@ -22,6 +22,7 @@ Last updated: May 11, 2026
 
 | Model or Product | Release Date | Key Highlight |
 |---|---:|---|
+| GPT-5.6 Sol | June 27, 2026 | OpenAI preview page for the next GPT-5 generation model. |
 | GPT-5.5 | April 23, 2026 | Frontier model for coding, research, computer use, documents, spreadsheets, and long-running work. |
 | ChatGPT Images 2.0 | April 21, 2026 | New ChatGPT image generation experience and model generation. |
 | GPT-5.4 mini and nano | March 17, 2026 | Smaller GPT-5.4 models for faster and lower-cost workloads. |
@@ -88,18 +89,19 @@ Last updated: May 11, 2026
 | April 21, 2026 | ChatGPT Images 2.0 launched as a new image generation experience. |
 | April 23, 2026 | GPT-5.5 launched for advanced coding, research, computer use, knowledge work, and agentic workflows. |
 | April 24, 2026 | GPT-5.5 and GPT-5.5 Pro became available in the API. |
+| June 27, 2026 | OpenAI published an official preview page for GPT-5.6 Sol, the next named model in the GPT-5 generation. |
 
 ## Latest OpenAI Model
 
-The latest major GPT model in this timeline is GPT-5.5, released on April 23, 2026.
+The latest major GPT model in this timeline is GPT-5.6 Sol, previewed by OpenAI on June 27, 2026.
 
-GPT-5.5 is positioned for complex work across coding, research, data analysis, documents, spreadsheets, computer use, and agent workflows. GPT-5.5 Pro is available for higher-accuracy work. OpenAI also made GPT-5.5 and GPT-5.5 Pro available in the API on April 24, 2026.
+GPT-5.6 Sol is the next named model in the GPT-5 generation. OpenAI published the GPT-5.6 Sol preview page as another step toward more capable ChatGPT models and agentic workflows.
 
 ## Source Article
 
 This repository is maintained as a companion resource for the full article:
 
-[ChatGPT Timeline: GPT Release Dates From GPT-1 to GPT-5.5](https://www.scriptbyai.com/timeline-of-chatgpt/)
+[ChatGPT Timeline: GPT Release Dates From GPT-1 to GPT-5.6](https://www.scriptbyai.com/timeline-of-chatgpt/)
 
 The article includes a readable web version of the timeline, more context on GPT model generations, and related AI resources.
 
