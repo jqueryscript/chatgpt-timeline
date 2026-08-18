@@ -2,11 +2,11 @@
 
 A public timeline of major OpenAI GPT model releases, ChatGPT product updates, and related OpenAI milestones.
 
-This repository is built as a clean reference for ChatGPT and GPT release history. It covers GPT-1, GPT-2, GPT-3, ChatGPT, GPT-4, GPT-4o, OpenAI reasoning models, GPT-5, Codex, Sora, ChatGPT Images, GPT-5.5, and GPT-5.6.
+This repository is built as a clean reference for ChatGPT and GPT release history. It covers GPT-1, GPT-2, GPT-3, ChatGPT, GPT-4, GPT-4o, OpenAI reasoning models, GPT-5, Codex, Sora, ChatGPT Images, GPT-5.5, GPT-5.6, Computer History, ChatGPT for Teens, and GPT-5.6-Cyber.
 
 > [Claude Timeline](https://github.com/jqueryscript/anthropic-claude-timeline)
 
-Last updated: June 27, 2026
+Last updated: August 19, 2026
 
 ## What This Timeline Covers
 
@@ -16,12 +16,18 @@ Last updated: June 27, 2026
 - Codex and coding-agent updates
 - Sora and video generation releases
 - ChatGPT Images and image generation updates
+- ChatGPT memory and personalization updates
+- OpenAI Daybreak and cybersecurity model releases
 - Major OpenAI API and developer platform milestones
 
 ## Quick Release Table: Newest First
 
 | Model or Product | Release Date | Key Highlight |
 |---|---:|---|
+| ChatGPT for Teens | August 18, 2026 | Learning-focused ChatGPT experience for teens with stronger default protections, parent controls, and healthy-use features. |
+| GPT-5.6 Sol Ultrafast mode preview | August 14, 2026 | Preview mode that runs GPT-5.6 Sol at up to 14 times the speed. |
+| ChatGPT Computer History | August 14, 2026 | Optional macOS desktop feature that turns activity across selected apps and websites into memories and a timeline for future interactions. |
+| GPT-5.6-Cyber | August 10, 2026 | Cybersecurity-specific model for approved Daybreak Red users conducting advanced, authorized security work. |
 | GPT-5.6 Sol, Terra, and Luna | June 27, 2026 | Limited preview of the GPT-5.6 series, with Sol as the flagship model, Terra for balanced work, and Luna for fast lower-cost work. |
 | GPT-5.5 | April 23, 2026 | Frontier model for coding, research, computer use, documents, spreadsheets, and long-running work. |
 | ChatGPT Images 2.0 | April 21, 2026 | New ChatGPT image generation experience and model generation. |
@@ -57,6 +63,7 @@ Last updated: June 27, 2026
 
 | Date | Milestone |
 |---:|---|
+| August 18, 2026 | OpenAI introduced [ChatGPT for Teens](https://openai.com/index/chatgpt-for-teens/), a learning-focused experience with Study Mode, responsible homework reminders, stronger age-appropriate protections, parent controls, and healthy-use features. |
 | June 2018 | OpenAI published the first GPT research system through work on generative pre-training for language understanding. |
 | February 2019 | GPT-2 was introduced as a larger unsupervised language model. OpenAI used a staged release process because of misuse concerns. |
 | May 2020 | GPT-3 was introduced as a 175B-parameter language model that showed strong few-shot learning. |
@@ -90,10 +97,33 @@ Last updated: June 27, 2026
 | April 23, 2026 | GPT-5.5 launched for advanced coding, research, computer use, knowledge work, and agentic workflows. |
 | April 24, 2026 | GPT-5.5 and GPT-5.5 Pro became available in the API. |
 | June 27, 2026 | OpenAI began a limited preview of the GPT-5.6 series: Sol, its flagship model; Terra, a balanced model for everyday work; and Luna, a fast and affordable model. Initial access is through the API and Codex for selected trusted partners. |
+| August 10, 2026 | OpenAI introduced GPT-5.6-Cyber through Daybreak Red for approved defenders conducting advanced vulnerability research, exploit validation, and authorized security testing. The expanded Daybreak program also added Daybreak Blue access to GPT-5.6 Sol for defensive security work. |
+| August 14, 2026 | ChatGPT introduced Computer History in the macOS desktop app. The optional feature turns activity across selected apps and websites into memories and a timeline that ChatGPT and Codex can reference later. |
+| August 14, 2026 | OpenAI previewed Ultrafast mode for GPT-5.6 Sol at up to 14 times the speed. |
 
-## Latest OpenAI Model
+## Latest ChatGPT and GPT-5.6 Updates
 
-The latest major GPT model in this timeline is GPT-5.6 Sol, introduced in limited preview on June 27, 2026.
+[ChatGPT for Teens](https://openai.com/index/chatgpt-for-teens/) is a learning-focused experience for teens, with Study Mode, responsible homework reminders, Quizzes, Learning Visualizations, and Study Hours. OpenAI says its system automatically places users it estimates are under 18, as well as users who state that they are between 13 and 17, into the experience.
+
+The experience applies stronger age-appropriate protections by default, including safeguards for self-harm, violence, eating disorders, dangerous activities, and explicit sexual or graphic content. Linked parents can set Quiet Hours, manage selected settings, and receive limited safety notifications. Break reminders, sensitive-image upload reminders, teen-specific onboarding, and clear cues that identify ChatGPT as AI support healthier use.
+
+[Computer History](https://learn.chatgpt.com/docs/customization/computer-history) turns activity across selected apps and websites into memories and a timeline that ChatGPT and Codex can use in future interactions. This can help users resume recent work with less repeated explanation.
+
+The feature is off by default in the ChatGPT desktop app on macOS. Pro users can choose to enable it. Business and Enterprise users need an administrator to grant workspace access before they can opt in. Computer History requires Memories and is not currently available in the European Economic Area, Switzerland, or the United Kingdom.
+
+Users choose which apps and websites can contribute. Computer History records interaction events and creates text summaries, but it does not capture screenshots, screen recordings, microphone input, or system audio. Users can pause collection and inspect or delete their history.
+
+OpenAI also previewed [Ultrafast mode](https://openai.com/index/previewing-ultrafast/) for GPT-5.6 Sol on August 14, 2026. The mode can run GPT-5.6 Sol at up to 14 times the speed.
+
+## Latest OpenAI Models
+
+The newest model release in this timeline is GPT-5.6-Cyber, introduced on August 10, 2026. It is a cybersecurity-specific model built on GPT-5.6 Sol and available through the restricted Daybreak Red program. It is intended for approved defenders conducting advanced vulnerability research, exploit validation, and authorized security testing.
+
+OpenAI divided the expanded Daybreak program into two access tiers. Daybreak Blue provides approved defenders with general-purpose frontier models, including GPT-5.6 Sol, for defensive work such as secure code review, malware analysis, incident response, vulnerability discovery, and patch validation. Daybreak Red provides purpose-trained cyber models for higher-risk authorized work.
+
+OpenAI reported that GPT-5.6-Cyber completed 95.0% of requests in its internal Advanced Cybersecurity Completion Rate evaluation, compared with 57.3% for GPT-5.5-Cyber. OpenAI assessed GPT-5.6-Cyber as High for cybersecurity capability but below its Critical threshold. Access requires approval and includes identity verification, account security, monitoring, approved-use restrictions, and legal attestations.
+
+The latest major general-purpose GPT model in this timeline is GPT-5.6 Sol, introduced in limited preview on June 27, 2026.
 
 GPT-5.6 Sol is OpenAI's strongest model in the announcement. The GPT-5.6 series also includes Terra for balanced everyday work, with competitive performance to GPT-5.5 at half the cost, and Luna as the fast, lowest-cost model in the series. During the preview, GPT-5.6 models are available through the API and Codex to selected trusted partners, with broader ChatGPT, Codex, and API availability planned soon. OpenAI says the short-term limited preview follows engagement with the U.S. government.
 
