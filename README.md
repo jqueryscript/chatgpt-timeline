@@ -2,11 +2,11 @@
 
 A public timeline of major OpenAI GPT model releases, ChatGPT product updates, and related OpenAI milestones.
 
-This repository is built as a clean reference for ChatGPT and GPT release history. It covers GPT-1, GPT-2, GPT-3, ChatGPT, GPT-4, GPT-4o, OpenAI reasoning models, GPT-5, Codex, Sora, ChatGPT Images, GPT-5.5, GPT-5.6, Computer History, ChatGPT for Teens, and GPT-5.6-Cyber.
+This repository is built as a clean reference for ChatGPT and GPT release history. It covers GPT-1, GPT-2, GPT-3, ChatGPT, GPT-4, GPT-4o, OpenAI reasoning models, GPT-5, Codex, Sora, ChatGPT Images, GPT-5.5, GPT-5.6, GPT-6 Astra, Computer History, ChatGPT for Teens, Agents API, GPT-Live-1, and GPT-5.6-Cyber.
 
 > [Claude Timeline](https://github.com/jqueryscript/anthropic-claude-timeline)
 
-Last updated: August 19, 2026
+Last updated: September 10, 2026
 
 ## What This Timeline Covers
 
@@ -24,6 +24,11 @@ Last updated: August 19, 2026
 
 | Model or Product | Release Date | Key Highlight |
 |---|---:|---|
+| Agents API | September 10, 2026 | Public beta API for cloud agents with OpenAI's managed Codex harness, sandboxes, tools, and optional subagents. |
+| GPT-Live-1 in the API | September 10, 2026 | Full-duplex voice model for natural voice agents, available at $0.05 per minute for the front-end voice layer. |
+| ChatGPT for Financial Services | September 10, 2026 | Tailored ChatGPT Work experience for eligible financial institutions, with GPT-6 Astra, financial data, and enterprise controls. |
+| Data agent in ChatGPT Work | September 10, 2026 | Plugin that connects approved company data to analysis, interactive dashboards, and approved actions. |
+| ChatGPT Images 2.5 | September 8, 2026 | New image model with sharper details, faster generation, more precise editing, Sketch, templates, image comments, and prompt sharing. |
 | ChatGPT for Teens | August 18, 2026 | Learning-focused ChatGPT experience for teens with stronger default protections, parent controls, and healthy-use features. |
 | GPT-5.6 Sol Ultrafast mode preview | August 14, 2026 | Preview mode that runs GPT-5.6 Sol at up to 14 times the speed. |
 | ChatGPT Computer History | August 14, 2026 | Optional macOS desktop feature that turns activity across selected apps and websites into memories and a timeline for future interactions. |
@@ -63,6 +68,15 @@ Last updated: August 19, 2026
 
 | Date | Milestone |
 |---:|---|
+| September 10, 2026 | OpenAI introduced the [Agents API](https://openai.com/index/introducing-the-agents-api/) in public beta. It gives developers managed access to the Codex harness, long-running sessions, tools, sandboxes, and optional subagents. |
+| September 10, 2026 | OpenAI released [GPT-Live-1](https://openai.com/index/introducing-gpt-live-1-in-the-api/) in the API, a full-duplex voice model for agents that can listen and speak at the same time. The front-end voice layer costs $0.05 per minute. |
+| September 10, 2026 | OpenAI introduced [ChatGPT for Financial Services](https://openai.com/index/introducing-chatgpt-financial-services/) for eligible financial institutions, with GPT-6 Astra, built-in financial data, firm templates, and enterprise controls. |
+| September 10, 2026 | OpenAI introduced a [Data agent](https://openai.com/index/put-data-to-work/) for ChatGPT Work. It connects to approved company data, builds interactive dashboards, and can take approved actions through connected tools. |
+| September 10, 2026 | OpenAI described how César de la Fuente's lab uses [Codex and ChatGPT](https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials/) to support research into potential antimicrobial molecules from genome and protein datasets. |
+| September 8, 2026 | OpenAI introduced [ChatGPT Images 2.5](https://openai.com/index/introducing-chatgpt-images-2-5/), with sharper details, more precise multi-turn editing, and up to 50% lower generation latency than Images 2.0. ChatGPT adds Sketch, templates, image comments, and optional prompt sharing. OpenAI also released GPT-Image-2.5 Flare and GPT-Image-2.5 Sunburst in the API. |
+| August 25, 2026 | ChatGPT Work added support for websites that require sign-in on web and mobile. The user completes the sign-in without ChatGPT seeing the username or password. |
+| August 25, 2026 | Plus and Pro users gained tasks that can respond to changes in Slack, Gmail, and GitHub. Tasks began rolling out to Free users with a three-task limit, and users can share tasks for others to customize. |
+| August 25, 2026 | ChatGPT Business added Premium seats with five times the usage of Standard seats and no five-hour usage limit. Premium costs $100 per user per month with annual billing or $125 with monthly billing. |
 | August 18, 2026 | OpenAI introduced [ChatGPT for Teens](https://openai.com/index/chatgpt-for-teens/), a learning-focused experience with Study Mode, responsible homework reminders, stronger age-appropriate protections, parent controls, and healthy-use features. |
 | June 2018 | OpenAI published the first GPT research system through work on generative pre-training for language understanding. |
 | February 2019 | GPT-2 was introduced as a larger unsupervised language model. OpenAI used a staged release process because of misuse concerns. |
@@ -101,7 +115,27 @@ Last updated: August 19, 2026
 | August 14, 2026 | ChatGPT introduced Computer History in the macOS desktop app. The optional feature turns activity across selected apps and websites into memories and a timeline that ChatGPT and Codex can reference later. |
 | August 14, 2026 | OpenAI previewed Ultrafast mode for GPT-5.6 Sol at up to 14 times the speed. |
 
-## Latest ChatGPT and GPT-5.6 Updates
+## Latest ChatGPT, API, and OpenAI Updates
+
+OpenAI introduced the [Agents API](https://openai.com/index/introducing-the-agents-api/) in public beta on September 10, 2026. It gives developers access to the managed Codex harness for cloud agents, including context management, tool use, long-running sessions, OpenAI-hosted sandboxes, and optional subagents. The public beta has no separate platform fee; developers pay for tokens and tools used by their agents.
+
+OpenAI also released [GPT-Live-1](https://openai.com/index/introducing-gpt-live-1-in-the-api/) in the API. The full-duplex voice model listens and speaks simultaneously, handles interruptions and background noise, and can delegate deeper reasoning or tool calls to a backend model. The front-end voice layer costs $0.05 per minute.
+
+The new [Data agent](https://openai.com/index/put-data-to-work/) in ChatGPT Work connects approved company data to analysis, interactive dashboards, and approved actions through connected tools. Administrators control data connections and roles, while source-system permissions remain in force.
+
+[ChatGPT for Financial Services](https://openai.com/index/introducing-chatgpt-financial-services/) is a tailored ChatGPT Work experience for eligible financial institutions. It combines GPT-6 Astra, built-in financial data, connected sources, firm templates, and enterprise controls for research, financial models, and client materials.
+
+OpenAI also described how César de la Fuente's lab uses [Codex and ChatGPT](https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials/) to develop code, analyze datasets, and form hypotheses while searching genome and protein data for potential antimicrobial molecules. Laboratory experiments remain necessary to validate the candidates.
+
+OpenAI introduced [ChatGPT Images 2.5](https://openai.com/index/introducing-chatgpt-images-2-5/) on September 8, 2026. The model is rolling out to ChatGPT, ChatGPT Work, and Codex users across all plans on desktop, mobile, and web. It improves image detail, reference-photo fidelity, focused edits, and consistency across multiple edits, while reducing generation latency by up to 50% compared with Images 2.0.
+
+ChatGPT Images 2.5 adds Sketch for drawing a visual reference, templates for formats such as posters and merchandise, comments placed directly on images, and optional prompt sharing. The API release includes GPT-Image-2.5 Flare for most applications and GPT-Image-2.5 Sunburst for workflows that need tighter editing control. Prompt and image safety checks, C2PA metadata, and invisible watermarking remain in place.
+
+ChatGPT Work can now access websites that require sign-in on web and mobile. The user completes the sign-in without ChatGPT seeing the username or password.
+
+Scheduled tasks can now respond to changes in Slack, Gmail, and GitHub for Plus and Pro users. OpenAI also began rolling out tasks to Free users, with a limit of three tasks, and added task sharing.
+
+ChatGPT Business now offers [Premium seats](https://chatgpt.com/pricing/?type=team) with five times the usage of Standard seats and no five-hour usage limit. Premium costs $100 per user per month with annual billing or $125 with monthly billing. Business workspaces can mix Standard and Premium seats.
 
 [ChatGPT for Teens](https://openai.com/index/chatgpt-for-teens/) is a learning-focused experience for teens, with Study Mode, responsible homework reminders, Quizzes, Learning Visualizations, and Study Hours. OpenAI says its system automatically places users it estimates are under 18, as well as users who state that they are between 13 and 17, into the experience.
 
@@ -117,7 +151,7 @@ OpenAI also previewed [Ultrafast mode](https://openai.com/index/previewing-ultra
 
 ## Latest OpenAI Models
 
-The newest model release in this timeline is GPT-5.6-Cyber, introduced on August 10, 2026. It is a cybersecurity-specific model built on GPT-5.6 Sol and available through the restricted Daybreak Red program. It is intended for approved defenders conducting advanced vulnerability research, exploit validation, and authorized security testing.
+The newest major general-purpose model release in this timeline is GPT-6 Astra, introduced on September 3, 2026. It is OpenAI's first model to reach the Critical cybersecurity capability threshold under the Preparedness Framework and is rolling out through ChatGPT, the API, and AWS with additional deployment safeguards.
 
 OpenAI divided the expanded Daybreak program into two access tiers. Daybreak Blue provides approved defenders with general-purpose frontier models, including GPT-5.6 Sol, for defensive work such as secure code review, malware analysis, incident response, vulnerability discovery, and patch validation. Daybreak Red provides purpose-trained cyber models for higher-risk authorized work.
 
@@ -135,7 +169,7 @@ API pricing is listed per 1 million tokens: Sol at $5 input and $30 output, Terr
 
 This repository is maintained as a companion resource for the full article:
 
-[ChatGPT Timeline: GPT Release Dates From GPT-1 to GPT-5.6](https://www.scriptbyai.com/timeline-of-chatgpt/)
+[ChatGPT Timeline: GPT Release Dates From GPT-1 to GPT-6](https://www.scriptbyai.com/timeline-of-chatgpt/)
 
 The article includes a readable web version of the timeline, more context on GPT model generations, and related AI resources.
 
