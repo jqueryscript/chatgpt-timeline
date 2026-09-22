@@ -2,11 +2,11 @@
 
 A public timeline of major OpenAI GPT model releases, ChatGPT product updates, and related OpenAI milestones.
 
-This repository is built as a clean reference for ChatGPT and GPT release history. It covers GPT-1, GPT-2, GPT-3, ChatGPT, GPT-4, GPT-4o, OpenAI reasoning models, GPT-5, Codex, Sora, ChatGPT Images, GPT-5.5, GPT-5.6, GPT-6 Astra, Computer History, ChatGPT for Teens, Agents API, GPT-Live-1, and GPT-5.6-Cyber.
+This repository is built as a clean reference for ChatGPT and GPT release history. It covers GPT-1, GPT-2, GPT-3, ChatGPT, GPT-4, GPT-4o, OpenAI reasoning models, GPT-5, Codex, Sora, ChatGPT Images, GPT-5.5, GPT-5.6, GPT-6 Astra, GPT-6 Sol, GPT-6 Luna, Computer History, ChatGPT for Teens, Agents API, GPT-Live-1, and GPT-5.6-Cyber.
 
 > [Claude Timeline](https://github.com/jqueryscript/anthropic-claude-timeline)
 
-Last updated: September 10, 2026
+Last updated: September 23, 2026
 
 ## What This Timeline Covers
 
@@ -24,6 +24,7 @@ Last updated: September 10, 2026
 
 | Model or Product | Release Date | Key Highlight |
 |---|---:|---|
+| GPT-6 Sol and GPT-6 Luna | September 22, 2026 | Faster, lower-cost GPT-6 models for professional work, coding, computer use, and high-volume applications. |
 | Agents API | September 10, 2026 | Public beta API for cloud agents with OpenAI's managed Codex harness, sandboxes, tools, and optional subagents. |
 | GPT-Live-1 in the API | September 10, 2026 | Full-duplex voice model for natural voice agents, available at $0.05 per minute for the front-end voice layer. |
 | ChatGPT for Financial Services | September 10, 2026 | Tailored ChatGPT Work experience for eligible financial institutions, with GPT-6 Astra, financial data, and enterprise controls. |
@@ -68,6 +69,7 @@ Last updated: September 10, 2026
 
 | Date | Milestone |
 |---:|---|
+| September 22, 2026 | OpenAI released [GPT-6 Sol and GPT-6 Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/) in ChatGPT Work, Codex, and the API. Free and Go users can access Luna in the desktop app; neither model is yet available in standard Chat. |
 | September 10, 2026 | OpenAI introduced the [Agents API](https://openai.com/index/introducing-the-agents-api/) in public beta. It gives developers managed access to the Codex harness, long-running sessions, tools, sandboxes, and optional subagents. |
 | September 10, 2026 | OpenAI released [GPT-Live-1](https://openai.com/index/introducing-gpt-live-1-in-the-api/) in the API, a full-duplex voice model for agents that can listen and speak at the same time. The front-end voice layer costs $0.05 per minute. |
 | September 10, 2026 | OpenAI introduced [ChatGPT for Financial Services](https://openai.com/index/introducing-chatgpt-financial-services/) for eligible financial institutions, with GPT-6 Astra, built-in financial data, firm templates, and enterprise controls. |
@@ -117,6 +119,12 @@ Last updated: September 10, 2026
 
 ## Latest ChatGPT, API, and OpenAI Updates
 
+OpenAI introduced [GPT-6 Sol and GPT-6 Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/) on September 22, 2026. Both models use training methods related to GPT-6 Astra and improve professional work, factual reliability, coding, computer use, and alignment at lower cost.
+
+The models are available in ChatGPT Work and Codex for Plus, Pro, Business, Enterprise, and Edu users. Free and Go users can access GPT-6 Luna in the desktop app. They are not yet available in standard Chat. API model IDs are `gpt-6-sol` and `gpt-6-luna`.
+
+API prices per 1 million tokens are $2 input and $10 output for Sol, and $0.10 input and $0.50 output for Luna. Cached input-token reads receive a 90% discount. OpenAI classifies both models as High capability in the Cybersecurity and Biological and Chemical domains, below Astra's Critical cybersecurity classification.
+
 OpenAI introduced the [Agents API](https://openai.com/index/introducing-the-agents-api/) in public beta on September 10, 2026. It gives developers access to the managed Codex harness for cloud agents, including context management, tool use, long-running sessions, OpenAI-hosted sandboxes, and optional subagents. The public beta has no separate platform fee; developers pay for tokens and tools used by their agents.
 
 OpenAI also released [GPT-Live-1](https://openai.com/index/introducing-gpt-live-1-in-the-api/) in the API. The full-duplex voice model listens and speaks simultaneously, handles interruptions and background noise, and can delegate deeper reasoning or tool calls to a backend model. The front-end voice layer costs $0.05 per minute.
@@ -151,19 +159,21 @@ OpenAI also previewed [Ultrafast mode](https://openai.com/index/previewing-ultra
 
 ## Latest OpenAI Models
 
-The newest major general-purpose model release in this timeline is GPT-6 Astra, introduced on September 3, 2026. It is OpenAI's first model to reach the Critical cybersecurity capability threshold under the Preparedness Framework and is rolling out through ChatGPT, the API, and AWS with additional deployment safeguards.
+The newest general-purpose model releases in this timeline are GPT-6 Sol and GPT-6 Luna, introduced on September 22, 2026. GPT-6 Astra remains OpenAI's most capable model across the family, while Sol and Luna provide faster, lower-cost options.
+
+GPT-6 Sol targets demanding professional work, coding, and computer use. GPT-6 Luna is the fastest and least expensive GPT-6 model. Both are available through ChatGPT Work, Codex, and the OpenAI API, while Luna is also available to Free and Go users in the desktop app.
+
+OpenAI reports that GPT-6 Sol made about half as many mistakes as GPT-5.6 Sol in an internal factuality evaluation. On DeepSWE 1.1, GPT-6 Sol scored 68.8% at maximum reasoning effort and GPT-6 Luna scored 66.6%.
 
 OpenAI divided the expanded Daybreak program into two access tiers. Daybreak Blue provides approved defenders with general-purpose frontier models, including GPT-5.6 Sol, for defensive work such as secure code review, malware analysis, incident response, vulnerability discovery, and patch validation. Daybreak Red provides purpose-trained cyber models for higher-risk authorized work.
 
 OpenAI reported that GPT-5.6-Cyber completed 95.0% of requests in its internal Advanced Cybersecurity Completion Rate evaluation, compared with 57.3% for GPT-5.5-Cyber. OpenAI assessed GPT-5.6-Cyber as High for cybersecurity capability but below its Critical threshold. Access requires approval and includes identity verification, account security, monitoring, approved-use restrictions, and legal attestations.
 
-The latest major general-purpose GPT model in this timeline is GPT-5.6 Sol, introduced in limited preview on June 27, 2026.
-
-GPT-5.6 Sol is OpenAI's strongest model in the announcement. The GPT-5.6 series also includes Terra for balanced everyday work, with competitive performance to GPT-5.5 at half the cost, and Luna as the fast, lowest-cost model in the series. During the preview, GPT-5.6 models are available through the API and Codex to selected trusted partners, with broader ChatGPT, Codex, and API availability planned soon. OpenAI says the short-term limited preview follows engagement with the U.S. government.
+OpenAI introduced GPT-5.6 Sol in limited preview on June 27, 2026. The GPT-5.6 series also includes Terra for balanced everyday work and Luna for fast, lower-cost workloads.
 
 GPT-5.6 adds max reasoning effort for Sol and an ultra mode that can use subagents for complex work. OpenAI cites improved agentic capabilities in coding, biology, and cybersecurity, including Terminal-Bench 2.1, GeneBench v1, ExploitBench, and ExploitGym results. OpenAI says Sol did not cross the Cyber Critical threshold in the reported tests and that it used more than 700,000 A100-equivalent GPU hours for automated red teaming.
 
-API pricing is listed per 1 million tokens: Sol at $5 input and $30 output, Terra at $2.50 input and $15 output, and Luna at $1 input and $6 output. GPT-5.6 also adds explicit cache breakpoints, a 30-minute minimum cache life, cache writes billed at 1.25x the uncached input rate, and a 90% cached-input discount for cache reads. OpenAI also plans to launch GPT-5.6 Sol on Cerebras at up to 750 tokens per second in July for selected customers.
+Current GPT-5.6 API pricing per 1 million tokens is $4 input and $20 output for Sol, $2 input and $12 output for Terra, and $0.20 input and $1.20 output for Luna. GPT-5.6 also supports explicit cache breakpoints and a 90% cached-input discount for cache reads.
 
 ## Source Article
 
