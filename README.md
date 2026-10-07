@@ -6,7 +6,7 @@ This repository is built as a clean reference for ChatGPT and GPT release histor
 
 > [Claude Timeline](https://github.com/jqueryscript/anthropic-claude-timeline)
 
-Last updated: October 7, 2026
+Last updated: October 8, 2026
 
 ## What This Timeline Covers
 
@@ -24,6 +24,8 @@ Last updated: October 7, 2026
 
 | Model or Product | Release Date | Key Highlight |
 |---|---:|---|
+| GPT-6 with Intelligent UI | October 7, 2026 | Interactive Chat responses; paid-plan rollout begins October 7, with Free and Go expansion from October 8. |
+| Teen study tools and College Planner | October 7, 2026 | Flashcards and quizzes; College Planner coming soon for an initial U.S. grades 10–12 experience. |
 | Decisions API beta | October 6, 2026 | GPT-6 Luna API for probabilities, choices, and scores from text and images. |
 | ChatGPT audio uploads | October 6, 2026 | Paid access to transcription, summaries, and questions about uploaded recordings. |
 | EU text watermarking | October 5, 2026 | API opt-in for select models; eligible EU ChatGPT and Codex rollout planned over the coming weeks. |
@@ -82,15 +84,19 @@ Last updated: October 7, 2026
 
 | Date | Milestone |
 |---:|---|
+| October 7, 2026 | [GPT-6 with Intelligent UI](https://openai.com/index/gpt-6-for-everyone/): GPT-6 began rolling out in Chat, with interactive answers and everyday-conversation versions of Sol and Luna. Paid tiers start October 7; Free and Go follow from October 8. |
+| October 7, 2026 | [Teen learning tools and College Planner](https://openai.com/index/teens-learn-and-plan/): OpenAI added flashcards and improved quizzes and announced College Planner, coming soon for U.S. students in grades 10–12 applying to four-year colleges. |
+| October 7, 2026 | [GPT-6 Chat safety update](https://deploymentsafety.openai.com/gpt-6-october): OpenAI published the October Sol and Luna system card, with updated safety evaluations and High classifications in cybersecurity and biological and chemical capabilities. |
+| October 7, 2026 | [chat-latest API update](https://developers.openai.com/api/docs/changelog): OpenAI refreshed the changing chat-latest snapshot for testing the latest paid ChatGPT model; OpenAI recommends GPT-6 family models for production API use. |
 | October 6, 2026 | [AI mathematics results](https://openai.com/index/sharing-ai-progress-in-mathematics/): OpenAI published mathematical results and Lean proofs from an unreleased internal model, with reasoning summaries and compute estimates. |
 | October 6, 2026 | [Decisions API beta](https://developers.openai.com/api/docs/guides/decisions): Decisions API entered public beta with GPT-6 Luna for typed decisions from text and images. |
 | October 6, 2026 | [ChatGPT audio uploads](https://help.openai.com/en/articles/6825453-chatgpt-release-notes): Paid subscribers and workspaces gained audio uploads for transcription, summaries, and questions about recordings. Availability varies by settings, region, client, and model. |
 | October 6, 2026 | [Ironclad research collaboration](https://openai.com/index/advancing-computer-use-with-ironclad/): OpenAI reported stronger GPT-6 Astra results on 11 Ironclad contracting tasks, with simulated timing and continued human oversight. |
-| October 6, 2026 | [Atlassian partnership](https://openai.com/index/atlassian-partnership/): Atlassian expanded its OpenAI partnership for GPT-6-powered agents and Rovo. Deeper Jira agent integrations remain under exploration. |
+| October 6, 2026 | [Atlassian partnership](https://openai.com/index/atlassian-partnership/): Atlassian expanded its OpenAI partnership for GPT-6-powered agents and Rovo. Atlassian and OpenAI are exploring deeper Jira agent integrations. |
 | October 6, 2026 | [API usage tiers](https://developers.openai.com/api/docs/changelog): OpenAI replaced five API usage tiers with Build, Launch, and Grow, with automatic upgrades based on total credit purchases. |
 | October 5, 2026 | [API HIPAA setup](https://developers.openai.com/api/docs/changelog): Eligible organization administrators gained a self-serve flow to accept the standard BAA and enable HIPAA compliance support. |
 | October 5, 2026 | [EU text provenance](https://openai.com/index/eu-text-provenance/): OpenAI announced textGrain watermarking: global API opt-in for select models, off by default, and eligible EU ChatGPT and Codex output over the coming weeks. Detector access is initially limited to approved researchers and expert organizations. |
-| October 5, 2026 | [ChatGPT Ads](https://openai.com/index/new-chatgpt-ads-format-and-measurement/): OpenAI announced visual ads with a U.S. image-generation test planned for later in October. Ads remain labeled, separate from generated images, and independent of answers. Measurement integrations and brand suitability tools also expanded. |
+| October 5, 2026 | [ChatGPT Ads](https://openai.com/index/new-chatgpt-ads-format-and-measurement/): OpenAI announced visual ads with a U.S. image-generation test planned for later in October. Ads carry a label, appear separately from generated images, and do not influence answers. Measurement integrations and brand suitability tools also expanded. |
 | October 2, 2026 | [Finances access](https://help.openai.com/en/articles/6825453-chatgpt-release-notes): Finances began rolling out to Free and Go users in the U.S. on web, iOS, and Android, with connected financial accounts for spending, savings, and investment questions. |
 | October 2, 2026 | [GPT-6 model guide](https://openai.com/index/practical-guide-building-gpt-6/): OpenAI published guidance on GPT-6 Astra, GPT-6.1 Sol, and GPT-6 Luna model selection, reasoning effort, caching, compaction, and long-running tasks. |
 | October 1, 2026 | [Shopping updates](https://help.openai.com/en/articles/6825453-chatgpt-release-notes): ChatGPT added virtual try-on for clothes and accessories through ChatGPT Images, plus product Favorites and folders on mobile and web. Users can change or delete saved reference photos in Settings. |
@@ -99,9 +105,9 @@ Last updated: October 7, 2026
 | September 29, 2026 | OpenAI released [GPT-6.1 Sol](https://openai.com/index/introducing-gpt-6-1-sol/) in ChatGPT Work, Codex, and the API, with stronger coding, computer-use, professional-work, and factuality results than GPT-6 Sol. |
 | September 29, 2026 | OpenAI began rolling out [dots](https://openai.com/index/introducing-dots/), ongoing GPT-6 Astra agents with a cloud computer, connected apps, and user controls. |
 | September 29, 2026 | [Space](https://chatgpt.com/features/space/) replaced Library for eligible plans, adding shared pages, files, and collaboration with ChatGPT, Codex, and dots. |
-| September 29, 2026 | [DevDay](https://openai.com/index/devday-2026-recap/) brought Astra Ultrafast, computer use in the Agents API, Codex Security Cloud, plugin extensions, and Sites plugin hosting. GPT-6.1 Sol Ultrafast remains upcoming. |
+| September 29, 2026 | [DevDay](https://openai.com/index/devday-2026-recap/) brought Astra Ultrafast, computer use in the Agents API, Codex Security Cloud, plugin extensions, and Sites plugin hosting. GPT-6.1 Sol Ultrafast is planned for a later release. |
 | September 29, 2026 | OpenAI introduced [Sign in with ChatGPT](https://help.openai.com/en/articles/20001542-using-your-chatgpt-plan-in-other-apps-and-sites), the $500 monthly [Pro 500](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers) plan, and an [enterprise Marketplace](https://openai.com/business/marketplace/). |
-| September 22, 2026 | OpenAI released [GPT-6 Sol and GPT-6 Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/) in ChatGPT Work, Codex, and the API. Free and Go users can access Luna in the desktop app; neither model is yet available in standard Chat. |
+| September 22, 2026 | OpenAI released [GPT-6 Sol and GPT-6 Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/) in ChatGPT Work, Codex, and the API. At launch, Free and Go users could access Luna in the desktop app; standard Chat versions followed in October. |
 | September 10, 2026 | OpenAI introduced the [Agents API](https://openai.com/index/introducing-the-agents-api/) in public beta. It gives developers managed access to the Codex harness, long-running sessions, tools, sandboxes, and optional subagents. |
 | September 10, 2026 | OpenAI released [GPT-Live-1](https://openai.com/index/introducing-gpt-live-1-in-the-api/) in the API, a full-duplex voice model for agents that can listen and speak at the same time. The front-end voice layer costs $0.05 per minute. |
 | September 10, 2026 | OpenAI introduced [ChatGPT for Financial Services](https://openai.com/index/introducing-chatgpt-financial-services/) for eligible financial institutions, with GPT-6 Astra, built-in financial data, firm templates, and enterprise controls. |
@@ -151,6 +157,30 @@ Last updated: October 7, 2026
 
 ## Latest ChatGPT, API, and OpenAI Updates
 
+### GPT-6 Brings Intelligent UI to ChatGPT
+
+OpenAI introduced [GPT-6 with Intelligent UI](https://openai.com/index/gpt-6-for-everyone/) on October 7, 2026. Responses can combine text, visuals, charts, buttons, forms, and interactive tools such as calculators or games. ChatGPT can begin answering while it continues to reason or use tools.
+
+The global rollout began October 7 for Plus, Pro, Business, and Enterprise and expands to Free and Go from October 8. Enterprise access depends on administrator settings. Paid tiers use GPT-6 Sol, and Free and Go use GPT-6 Luna, both tuned for everyday conversation.
+
+Intelligent UI supports Instant through Extra High reasoning. The Pro reasoning option uses GPT-6 Astra without Intelligent UI. This release updates Chat; Work and Codex keep their existing models.
+
+OpenAI reports that GPT-6 Instant starts web-search answers 44% sooner on average than GPT-5.6 Instant in its internal evaluation.
+
+### ChatGPT for Teens Adds Study Tools and Announces College Planner
+
+OpenAI announced [College Planner and new teen learning tools](https://openai.com/index/teens-learn-and-plan/) on October 7, 2026. College Planner is coming soon, initially for U.S. students in grades 10–12 who plan to attend a four-year college. It will organize application requirements, deadlines, tasks, and financial-aid steps.
+
+The learning update adds saved flashcard decks, scheduled practice, and interactive quizzes from uploaded notes. Multi-page camera capture combines notes into one PDF on iOS; Android support is planned.
+
+OpenAI also announced three years of support for Boston Children's Hospital's Digital Wellness Lab and its independent Student Advisory Council, plus support for College Advising Corps.
+
+### GPT-6 Chat Safety Update and chat-latest API Refresh
+
+OpenAI published an [October system-card update](https://deploymentsafety.openai.com/gpt-6-october) for the Chat versions of GPT-6 Sol and Luna. Both are treated as High capability in cybersecurity and biological and chemical domains, below Critical, and neither reaches the High threshold in AI self-improvement. Evaluations found stronger jailbreak resistance and lower dishonesty, deception, and guardrail circumvention than their GPT-5.6 Chat predecessors, alongside some lower-severity safety regressions.
+
+OpenAI updated the [`chat-latest` API snapshot](https://developers.openai.com/api/docs/changelog) on October 7, 2026, to reflect the latest ChatGPT model for Plus, Pro, Business, and Enterprise. The snapshot changes regularly; OpenAI recommends the GPT-6 model family for production API use.
+
 ### OpenAI Publishes New AI Mathematics Results
 
 On October 6, 2026, OpenAI published [mathematical results](https://openai.com/index/sharing-ai-progress-in-mathematics/) from an unreleased internal frontier model. The GitHub release includes Lean proof formalizations, revision and citation protocols, 10 reasoning summaries, compute estimates, and attempted-problem statistics. The average result used compute equivalent to about three hours of ChatGPT Pro thinking. OpenAI is working toward releasing the model.
@@ -165,11 +195,11 @@ On October 6, 2026, ChatGPT added [audio file uploads](https://help.openai.com/e
 
 ### GPT-6 Astra Advances on Ironclad Contracting Tasks
 
-OpenAI announced its [Ironclad research collaboration](https://openai.com/index/advancing-computer-use-with-ironclad/) on October 6, 2026. Across 11 contracting tasks, GPT-6 Astra at Max reasoning scored 55.0%, versus 41.6% for GPT-5.6 Sol at High. Estimated time per attempt fell from 37.0 to 19.2 minutes. These are research results with simulated timing, not measured customer savings. Human oversight remains necessary.
+OpenAI announced its [Ironclad research collaboration](https://openai.com/index/advancing-computer-use-with-ironclad/) on October 6, 2026. Across 11 contracting tasks, GPT-6 Astra at Max reasoning scored 55.0%, versus 41.6% for GPT-5.6 Sol at High. Estimated time per attempt fell from 37.0 to 19.2 minutes. These are research results with simulated timing, not measured customer savings. These tasks require human oversight.
 
 ### Atlassian Expands Its OpenAI Partnership
 
-On October 6, 2026, Atlassian and OpenAI [expanded their partnership](https://openai.com/index/atlassian-partnership/) to bring GPT-6 models to Atlassian's platform and Rovo. Atlassian plugins connect ChatGPT and Codex to project information and documentation under existing permissions. Deeper Jira integrations for assigning agent work, tracking progress, and reviewing results remain under exploration.
+On October 6, 2026, Atlassian and OpenAI [expanded their partnership](https://openai.com/index/atlassian-partnership/) to bring GPT-6 models to Atlassian's platform and Rovo. Atlassian plugins connect ChatGPT and Codex to project information and documentation under existing permissions. Atlassian and OpenAI are exploring deeper Jira integrations for assigning agent work, tracking progress, and reviewing results.
 
 ### API Usage Tiers and HIPAA Setup Change
 
@@ -177,7 +207,7 @@ On October 6, 2026, OpenAI reduced [API usage tiers](https://developers.openai.c
 
 ### OpenAI Announces EU Text Watermarking
 
-On October 5, 2026, OpenAI introduced [textGrain](https://openai.com/index/eu-text-provenance/), an invisible statistical watermark for text. API customers worldwide can opt in for select models; watermarking remains off by default. Eligible ChatGPT and Codex text output across all plans in the EU will receive watermarks over the coming weeks.
+On October 5, 2026, OpenAI introduced [textGrain](https://openai.com/index/eu-text-provenance/), an invisible statistical watermark for text. API customers worldwide can opt in for select models; watermarking is off by default. Eligible ChatGPT and Codex text output across all plans in the EU will receive watermarks over the coming weeks.
 
 The detector is initially restricted to approved researchers and expert organizations. Short passages, constrained text, editing, and translation can reduce detection reliability. A watermark does not identify a user, establish ownership, or verify accuracy; an undetected watermark does not prove human authorship.
 
@@ -195,7 +225,7 @@ On October 1, ChatGPT added virtual try-on for clothing and accessories through 
 
 ### GPT-6 Models and DevDay 2026
 
-OpenAI introduced [GPT-6.1 Sol](https://openai.com/index/introducing-gpt-6-1-sol/) on September 29, 2026. It improves on GPT-6 Sol in coding, complex documents, business workflows, computer use, scientific tasks, and factual accuracy. GPT-6 Astra remains the most capable model in the family. GPT-6.1 Sol is available in ChatGPT Work and Codex for Plus, Pro, Business, Enterprise, and Edu users and in the API as `gpt-6.1-sol`. It is not yet available in standard Chat. API prices per million tokens are $2 for input, $0.10 for cached input, and $10 for output.
+OpenAI introduced [GPT-6.1 Sol](https://openai.com/index/introducing-gpt-6-1-sol/) on September 29, 2026. It improves on GPT-6 Sol in coding, complex documents, business workflows, computer use, scientific tasks, and factual accuracy. GPT-6 Astra is the most capable model in the family. GPT-6.1 Sol is available in ChatGPT Work and Codex for Plus, Pro, Business, Enterprise, and Edu users and in the API as `gpt-6.1-sol`. It is not yet available in standard Chat. API prices per million tokens are $2 for input, $0.10 for cached input, and $10 for output.
 
 OpenAI also introduced [dots](https://openai.com/index/introducing-dots/), ongoing GPT-6 Astra agents that work through a cloud computer and connected apps. Users can inspect their work and set action rules. A first dot is included for Pro and Business Premium users in eligible markets, while Enterprise, Edu, and Healthcare workspaces can try a beta with administrator approval. [ChatGPT Space](https://chatgpt.com/features/space/) replaced Library for Pro, Business, and Enterprise users, with shared pages, files, and collaboration with ChatGPT, Codex, and dots. Mobile creation and editing, collaborative slides, and collaborative spreadsheets are planned for later.
 
@@ -205,7 +235,7 @@ At [DevDay 2026](https://openai.com/index/devday-2026-recap/), OpenAI announced 
 
 OpenAI introduced [GPT-6 Sol and GPT-6 Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/) on September 22, 2026. Both models use training methods related to GPT-6 Astra and improve professional work, factual reliability, coding, computer use, and alignment at lower cost.
 
-The models are available in ChatGPT Work and Codex for Plus, Pro, Business, Enterprise, and Edu users. Free and Go users can access GPT-6 Luna in the desktop app. They are not yet available in standard Chat. API model IDs are `gpt-6-sol` and `gpt-6-luna`.
+The models are available in ChatGPT Work and Codex for Plus, Pro, Business, Enterprise, and Edu users. Free and Go users can access GPT-6 Luna in the desktop app. At the September launch, access was limited to Work, Codex, and the API. Everyday-conversation versions began rolling out in Chat on October 7. API model IDs are `gpt-6-sol` and `gpt-6-luna`.
 
 API prices per 1 million tokens are $2 input and $10 output for Sol, and $0.10 input and $0.50 output for Luna. Cached input-token reads receive a 90% discount. OpenAI classifies both models as High capability in the Cybersecurity and Biological and Chemical domains, below Astra's Critical cybersecurity classification.
 
@@ -213,15 +243,15 @@ OpenAI introduced the [Agents API](https://openai.com/index/introducing-the-agen
 
 OpenAI also released [GPT-Live-1](https://openai.com/index/introducing-gpt-live-1-in-the-api/) in the API. The full-duplex voice model listens and speaks simultaneously, handles interruptions and background noise, and can delegate deeper reasoning or tool calls to a backend model. The front-end voice layer costs $0.05 per minute.
 
-The new [Data agent](https://openai.com/index/put-data-to-work/) in ChatGPT Work connects approved company data to analysis, interactive dashboards, and approved actions through connected tools. Administrators control data connections and roles, while source-system permissions remain in force.
+The new [Data agent](https://openai.com/index/put-data-to-work/) in ChatGPT Work connects approved company data to analysis, interactive dashboards, and approved actions through connected tools. Administrators control data connections and roles. Access follows the permissions set in each source system.
 
 [ChatGPT for Financial Services](https://openai.com/index/introducing-chatgpt-financial-services/) is a tailored ChatGPT Work experience for eligible financial institutions. It combines GPT-6 Astra, built-in financial data, connected sources, firm templates, and enterprise controls for research, financial models, and client materials.
 
-OpenAI also described how César de la Fuente's lab uses [Codex and ChatGPT](https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials/) to develop code, analyze datasets, and form hypotheses while searching genome and protein data for potential antimicrobial molecules. Laboratory experiments remain necessary to validate the candidates.
+OpenAI also described how César de la Fuente's lab uses [Codex and ChatGPT](https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials/) to develop code, analyze datasets, and form hypotheses while searching genome and protein data for potential antimicrobial molecules. The candidates require validation through laboratory experiments.
 
 OpenAI introduced [ChatGPT Images 2.5](https://openai.com/index/introducing-chatgpt-images-2-5/) on September 8, 2026. The model is rolling out to ChatGPT, ChatGPT Work, and Codex users across all plans on desktop, mobile, and web. It improves image detail, reference-photo fidelity, focused edits, and consistency across multiple edits, while reducing generation latency by up to 50% compared with Images 2.0.
 
-ChatGPT Images 2.5 adds Sketch for drawing a visual reference, templates for formats such as posters and merchandise, comments placed directly on images, and optional prompt sharing. The API release includes GPT-Image-2.5 Flare for most applications and GPT-Image-2.5 Sunburst for workflows that need tighter editing control. Prompt and image safety checks, C2PA metadata, and invisible watermarking remain in place.
+ChatGPT Images 2.5 adds Sketch for drawing a visual reference, templates for formats such as posters and merchandise, comments placed directly on images, and optional prompt sharing. The API release includes GPT-Image-2.5 Flare for most applications and GPT-Image-2.5 Sunburst for workflows that need tighter editing control. The release retains prompt and image safety checks, C2PA metadata, and invisible watermarking.
 
 ChatGPT Work can now access websites that require sign-in on web and mobile. The user completes the sign-in without ChatGPT seeing the username or password.
 
@@ -243,11 +273,11 @@ OpenAI also previewed [Ultrafast mode](https://openai.com/index/previewing-ultra
 
 ## Latest OpenAI Models
 
-GPT-6.1 Sol is the newest general-purpose model in this timeline. Released on September 29, 2026, it improves on GPT-6 Sol while retaining its $2 input and $10 output API prices per million tokens. Cached input costs $0.10 per million tokens. GPT-6 Astra remains OpenAI's most capable model across the family.
+GPT-6 with Intelligent UI is the latest Chat release, announced on October 7, 2026. GPT-6.1 Sol is the latest Sol release for Work, Codex, and the API. Released on September 29, 2026, it improves on GPT-6 Sol while retaining its $2 input and $10 output API prices per million tokens. Cached input costs $0.10 per million tokens. GPT-6 Astra is OpenAI's most capable model across the family.
 
 GPT-6 Sol and GPT-6 Luna were introduced on September 22, 2026. They provide faster, lower-cost options within the GPT-6 family.
 
-GPT-6 Sol targets demanding professional work, coding, and computer use. GPT-6 Luna is the fastest and least expensive GPT-6 model. Both are available through ChatGPT Work, Codex, and the OpenAI API, while Luna is also available to Free and Go users in the desktop app.
+GPT-6 Sol targets demanding professional work, coding, and computer use. GPT-6 Luna is the fastest and least expensive GPT-6 model. Both are available through ChatGPT Work, Codex, and the OpenAI API. The October Chat rollout uses everyday-conversation versions of Sol for paid tiers and Luna for Free and Go.
 
 OpenAI reports that GPT-6 Sol made about half as many mistakes as GPT-5.6 Sol in an internal factuality evaluation. On DeepSWE 1.1, GPT-6 Sol scored 68.8% at maximum reasoning effort and GPT-6 Luna scored 66.6%.
 
