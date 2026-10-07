@@ -6,7 +6,7 @@ This repository is built as a clean reference for ChatGPT and GPT release histor
 
 > [Claude Timeline](https://github.com/jqueryscript/anthropic-claude-timeline)
 
-Last updated: October 6, 2026
+Last updated: October 7, 2026
 
 ## What This Timeline Covers
 
@@ -24,6 +24,8 @@ Last updated: October 6, 2026
 
 | Model or Product | Release Date | Key Highlight |
 |---|---:|---|
+| Decisions API beta | October 6, 2026 | GPT-6 Luna API for probabilities, choices, and scores from text and images. |
+| ChatGPT audio uploads | October 6, 2026 | Paid access to transcription, summaries, and questions about uploaded recordings. |
 | EU text watermarking | October 5, 2026 | API opt-in for select models; eligible EU ChatGPT and Codex rollout planned over the coming weeks. |
 | ChatGPT visual ads and measurement | October 5, 2026 | Visual ad test planned in the U.S. later in October; expanded measurement and brand suitability tools. |
 | Finances for Free and Go | October 2, 2026 | U.S. rollout on web, iOS, and Android with connected financial accounts. |
@@ -80,6 +82,13 @@ Last updated: October 6, 2026
 
 | Date | Milestone |
 |---:|---|
+| October 6, 2026 | [AI mathematics results](https://openai.com/index/sharing-ai-progress-in-mathematics/): OpenAI published mathematical results and Lean proofs from an unreleased internal model, with reasoning summaries and compute estimates. |
+| October 6, 2026 | [Decisions API beta](https://developers.openai.com/api/docs/guides/decisions): Decisions API entered public beta with GPT-6 Luna for typed decisions from text and images. |
+| October 6, 2026 | [ChatGPT audio uploads](https://help.openai.com/en/articles/6825453-chatgpt-release-notes): Paid subscribers and workspaces gained audio uploads for transcription, summaries, and questions about recordings. Availability varies by settings, region, client, and model. |
+| October 6, 2026 | [Ironclad research collaboration](https://openai.com/index/advancing-computer-use-with-ironclad/): OpenAI reported stronger GPT-6 Astra results on 11 Ironclad contracting tasks, with simulated timing and continued human oversight. |
+| October 6, 2026 | [Atlassian partnership](https://openai.com/index/atlassian-partnership/): Atlassian expanded its OpenAI partnership for GPT-6-powered agents and Rovo. Deeper Jira agent integrations remain under exploration. |
+| October 6, 2026 | [API usage tiers](https://developers.openai.com/api/docs/changelog): OpenAI replaced five API usage tiers with Build, Launch, and Grow, with automatic upgrades based on total credit purchases. |
+| October 5, 2026 | [API HIPAA setup](https://developers.openai.com/api/docs/changelog): Eligible organization administrators gained a self-serve flow to accept the standard BAA and enable HIPAA compliance support. |
 | October 5, 2026 | [EU text provenance](https://openai.com/index/eu-text-provenance/): OpenAI announced textGrain watermarking: global API opt-in for select models, off by default, and eligible EU ChatGPT and Codex output over the coming weeks. Detector access is initially limited to approved researchers and expert organizations. |
 | October 5, 2026 | [ChatGPT Ads](https://openai.com/index/new-chatgpt-ads-format-and-measurement/): OpenAI announced visual ads with a U.S. image-generation test planned for later in October. Ads remain labeled, separate from generated images, and independent of answers. Measurement integrations and brand suitability tools also expanded. |
 | October 2, 2026 | [Finances access](https://help.openai.com/en/articles/6825453-chatgpt-release-notes): Finances began rolling out to Free and Go users in the U.S. on web, iOS, and Android, with connected financial accounts for spending, savings, and investment questions. |
@@ -141,6 +150,30 @@ Last updated: October 6, 2026
 | June 2018 | OpenAI published the first GPT research system through work on generative pre-training for language understanding. |
 
 ## Latest ChatGPT, API, and OpenAI Updates
+
+### OpenAI Publishes New AI Mathematics Results
+
+On October 6, 2026, OpenAI published [mathematical results](https://openai.com/index/sharing-ai-progress-in-mathematics/) from an unreleased internal frontier model. The GitHub release includes Lean proof formalizations, revision and citation protocols, 10 reasoning summaries, compute estimates, and attempted-problem statistics. The average result used compute equivalent to about three hours of ChatGPT Pro thinking. OpenAI is working toward releasing the model.
+
+### Decisions API Enters Public Beta
+
+Released on October 6, 2026, the [Decisions API](https://developers.openai.com/api/docs/guides/decisions) uses GPT-6 Luna to return probabilities, fixed choices, or rubric scores from text and images. OpenAI reports roughly 10 times faster answers than the Responses API. Input costs $0.10 per million tokens, with no output or cache charges; regional and long-context premiums apply.
+
+### ChatGPT Adds Audio File Uploads
+
+On October 6, 2026, ChatGPT added [audio file uploads](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) for transcripts, recording summaries, and questions about recorded content. Access requires a paid subscription or workspace and varies by workspace settings, region, client version, and model. Transcripts can contain errors, and performance varies across languages.
+
+### GPT-6 Astra Advances on Ironclad Contracting Tasks
+
+OpenAI announced its [Ironclad research collaboration](https://openai.com/index/advancing-computer-use-with-ironclad/) on October 6, 2026. Across 11 contracting tasks, GPT-6 Astra at Max reasoning scored 55.0%, versus 41.6% for GPT-5.6 Sol at High. Estimated time per attempt fell from 37.0 to 19.2 minutes. These are research results with simulated timing, not measured customer savings. Human oversight remains necessary.
+
+### Atlassian Expands Its OpenAI Partnership
+
+On October 6, 2026, Atlassian and OpenAI [expanded their partnership](https://openai.com/index/atlassian-partnership/) to bring GPT-6 models to Atlassian's platform and Rovo. Atlassian plugins connect ChatGPT and Codex to project information and documentation under existing permissions. Deeper Jira integrations for assigning agent work, tracking progress, and reviewing results remain under exploration.
+
+### API Usage Tiers and HIPAA Setup Change
+
+On October 6, 2026, OpenAI reduced [API usage tiers](https://developers.openai.com/api/docs/changelog) from five to three: Build, Launch, and Grow. Organizations upgrade automatically as total credit purchases reach tier thresholds. On October 5, eligible organization administrators gained an in-product flow to accept the standard Business Associate Agreement and enable HIPAA compliance support.
 
 ### OpenAI Announces EU Text Watermarking
 
