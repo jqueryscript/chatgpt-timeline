@@ -6,7 +6,7 @@ This repository is built as a clean reference for ChatGPT and GPT release histor
 
 > [Claude Timeline](https://github.com/jqueryscript/anthropic-claude-timeline)
 
-Last updated: October 8, 2026
+Last updated: October 9, 2026
 
 ## What This Timeline Covers
 
@@ -24,6 +24,8 @@ Last updated: October 8, 2026
 
 | Model or Product | Release Date | Key Highlight |
 |---|---:|---|
+| GPT-6.1 Sol Ultrafast in the API | October 8, 2026 | Faster output-token generation in the Responses API for all API users; supports global processing and U.S. and EU data residency. |
+| Faster steering in Codex | October 8, 2026 | Desktop rollout lets Codex incorporate follow-up instructions sooner during a running task. |
 | GPT-6 with Intelligent UI | October 7, 2026 | Interactive Chat responses; paid-plan rollout begins October 7, with Free and Go expansion from October 8. |
 | Teen study tools and College Planner | October 7, 2026 | Flashcards and quizzes; College Planner coming soon for an initial U.S. grades 10–12 experience. |
 | Decisions API beta | October 6, 2026 | GPT-6 Luna API for probabilities, choices, and scores from text and images. |
@@ -84,6 +86,9 @@ Last updated: October 8, 2026
 
 | Date | Milestone |
 |---:|---|
+| October 8, 2026 | [GPT-6.1 Sol Ultrafast in the API](https://developers.openai.com/api/docs/changelog): OpenAI added Ultrafast for all API users in the Responses API, with separate pricing and rate limits, global processing, and U.S. and EU data residency. |
+| October 8, 2026 | [Faster steering in Codex](https://help.openai.com/en/articles/6825453-chatgpt-release-notes): Desktop rollout lets Codex incorporate follow-up instructions sooner during a running task. Users can choose to steer the current run or queue a message for the next one. |
+| October 8, 2026 | [False-front influence operations report](https://openai.com/index/disrupting-ai-enabled-false-front-operations/): OpenAI reported banning ChatGPT account clusters linked to Russia-origin Dark Clark and Iran-origin Bogus Bylines, two covert influence operations that used deceptive organizations or journalist personas. |
 | October 7, 2026 | [GPT-6 with Intelligent UI](https://openai.com/index/gpt-6-for-everyone/): GPT-6 began rolling out in Chat, with interactive answers and everyday-conversation versions of Sol and Luna. Paid tiers start October 7; Free and Go follow from October 8. |
 | October 7, 2026 | [Teen learning tools and College Planner](https://openai.com/index/teens-learn-and-plan/): OpenAI added flashcards and improved quizzes and announced College Planner, coming soon for U.S. students in grades 10–12 applying to four-year colleges. |
 | October 7, 2026 | [GPT-6 Chat safety update](https://deploymentsafety.openai.com/gpt-6-october): OpenAI published the October Sol and Luna system card, with updated safety evaluations and High classifications in cybersecurity and biological and chemical capabilities. |
@@ -105,7 +110,7 @@ Last updated: October 8, 2026
 | September 29, 2026 | OpenAI released [GPT-6.1 Sol](https://openai.com/index/introducing-gpt-6-1-sol/) in ChatGPT Work, Codex, and the API, with stronger coding, computer-use, professional-work, and factuality results than GPT-6 Sol. |
 | September 29, 2026 | OpenAI began rolling out [dots](https://openai.com/index/introducing-dots/), ongoing GPT-6 Astra agents with a cloud computer, connected apps, and user controls. |
 | September 29, 2026 | [Space](https://chatgpt.com/features/space/) replaced Library for eligible plans, adding shared pages, files, and collaboration with ChatGPT, Codex, and dots. |
-| September 29, 2026 | [DevDay](https://openai.com/index/devday-2026-recap/) brought Astra Ultrafast, computer use in the Agents API, Codex Security Cloud, plugin extensions, and Sites plugin hosting. GPT-6.1 Sol Ultrafast is planned for a later release. |
+| September 29, 2026 | [DevDay](https://openai.com/index/devday-2026-recap/) brought Astra Ultrafast, computer use in the Agents API, Codex Security Cloud, plugin extensions, and Sites plugin hosting. GPT-6.1 Sol Ultrafast followed in the API on October 8. |
 | September 29, 2026 | OpenAI introduced [Sign in with ChatGPT](https://help.openai.com/en/articles/20001542-using-your-chatgpt-plan-in-other-apps-and-sites), the $500 monthly [Pro 500](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers) plan, and an [enterprise Marketplace](https://openai.com/business/marketplace/). |
 | September 22, 2026 | OpenAI released [GPT-6 Sol and GPT-6 Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/) in ChatGPT Work, Codex, and the API. At launch, Free and Go users could access Luna in the desktop app; standard Chat versions followed in October. |
 | September 10, 2026 | OpenAI introduced the [Agents API](https://openai.com/index/introducing-the-agents-api/) in public beta. It gives developers managed access to the Codex harness, long-running sessions, tools, sandboxes, and optional subagents. |
@@ -156,6 +161,24 @@ Last updated: October 8, 2026
 | June 2018 | OpenAI published the first GPT research system through work on generative pre-training for language understanding. |
 
 ## Latest ChatGPT, API, and OpenAI Updates
+
+### GPT-6.1 Sol Ultrafast Opens to All API Users
+
+On October 8, 2026, OpenAI added [Ultrafast mode for GPT-6.1 Sol](https://developers.openai.com/api/docs/guides/ultrafast-mode) to the Responses API. The service tier reduces the time between generated output tokens and is available to all API users, subject to separate rate limits. Developers select `gpt-6.1-sol` with `service_tier: "ultrafast"`.
+
+For prompts with up to 272,000 input tokens, GPT-6.1 Sol Ultrafast costs $12 per million input tokens, $0.60 for cached input, $15 for cache writes, and $60 for output. Above that threshold, prices are $24 for input, $1.20 for cached input, $30 for cache writes, and $90 for output. Regional processing adds a 10% surcharge.
+
+Default GPT-6.1 Sol Ultrafast limits are 1 million tokens per minute for Build, 4 million for Launch, and 40 million for Grow. GPT-6 Astra also supports Ultrafast for all API users, with default limits of 500,000, 1 million, and 5 million tokens per minute, respectively.
+
+GPT-6.1 Sol Ultrafast supports global processing and U.S. and EU data residency. Astra Ultrafast supports global processing and U.S. data residency. Both support HTTP requests and persistent WebSocket connections. OpenAI recommends WebSockets for agents with frequent tool calls because network overhead can reduce the speed gains.
+
+### Codex Responds Sooner to Follow-Up Instructions
+
+On October 8, 2026, OpenAI began rolling out [faster steering in Codex](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) in the ChatGPT desktop app. Codex can incorporate corrections, added information, and changes in direction sooner during a running task. Settings > General > Follow-up behavior controls whether follow-up messages steer the current run or wait for the next one.
+
+### OpenAI Reports Disruption of Two Covert Influence Operations
+
+OpenAI published its [false-front influence operations report](https://openai.com/index/disrupting-ai-enabled-false-front-operations/) on October 8, 2026. It banned ChatGPT account clusters linked to a Russia-origin operation, Dark Clark, and an Iran-origin operation, Bogus Bylines. The operators used AI for internal reports, deceptive content, and article pitches. The report describes a purported research organization in Latin America and seven fake journalist personas that placed articles in online outlets.
 
 ### GPT-6 Brings Intelligent UI to ChatGPT
 
@@ -229,7 +252,7 @@ OpenAI introduced [GPT-6.1 Sol](https://openai.com/index/introducing-gpt-6-1-sol
 
 OpenAI also introduced [dots](https://openai.com/index/introducing-dots/), ongoing GPT-6 Astra agents that work through a cloud computer and connected apps. Users can inspect their work and set action rules. A first dot is included for Pro and Business Premium users in eligible markets, while Enterprise, Edu, and Healthcare workspaces can try a beta with administrator approval. [ChatGPT Space](https://chatgpt.com/features/space/) replaced Library for Pro, Business, and Enterprise users, with shared pages, files, and collaboration with ChatGPT, Codex, and dots. Mobile creation and editing, collaborative slides, and collaborative spreadsheets are planned for later.
 
-At [DevDay 2026](https://openai.com/index/devday-2026-recap/), OpenAI announced GPT-6 Astra Ultrafast for eligible API users and Pro 500 or Enterprise users in ChatGPT Work and Codex. It added computer use to the Agents API, expanded cloud Codex and Code Review, introduced Codex Security Cloud, and previewed the Decisions API. Plugin extensions, Sites plugin hosting for eligible workspaces, team sharing, and ChatGPT access in Slack and Teams broadened the product. GPT-6.1 Sol Ultrafast is coming later.
+At [DevDay 2026](https://openai.com/index/devday-2026-recap/), OpenAI announced GPT-6 Astra Ultrafast for eligible API users and Pro 500 or Enterprise users in ChatGPT Work and Codex. It added computer use to the Agents API, expanded cloud Codex and Code Review, introduced Codex Security Cloud, and previewed the Decisions API. Plugin extensions, Sites plugin hosting for eligible workspaces, team sharing, and ChatGPT access in Slack and Teams broadened the product. GPT-6.1 Sol Ultrafast followed in the API on October 8, 2026.
 
 [Sign in with ChatGPT](https://help.openai.com/en/articles/20001542-using-your-chatgpt-plan-in-other-apps-and-sites) lets eligible Plus and Pro users use their plan allowance in participating apps, subject to existing usage limits. [Pro 500](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers) costs $500 per month and includes Astra Ultrafast. Eligible enterprises can express interest in the [OpenAI Marketplace](https://openai.com/business/marketplace/) and apply part of an existing OpenAI commitment toward approved partner products.
 
@@ -273,7 +296,7 @@ OpenAI also previewed [Ultrafast mode](https://openai.com/index/previewing-ultra
 
 ## Latest OpenAI Models
 
-GPT-6 with Intelligent UI is the latest Chat release, announced on October 7, 2026. GPT-6.1 Sol is the latest Sol release for Work, Codex, and the API. Released on September 29, 2026, it improves on GPT-6 Sol while retaining its $2 input and $10 output API prices per million tokens. Cached input costs $0.10 per million tokens. GPT-6 Astra is OpenAI's most capable model across the family.
+GPT-6 with Intelligent UI is the latest Chat release, announced on October 7, 2026. GPT-6.1 Sol is the latest Sol release for Work, Codex, and the API. Released on September 29, 2026, it improves on GPT-6 Sol while retaining its $2 input and $10 output API prices per million tokens. Cached input costs $0.10 per million tokens. GPT-6 Astra is OpenAI's most capable model across the family. GPT-6.1 Sol Ultrafast became available to all API users on October 8, 2026, with separate pricing and rate limits.
 
 GPT-6 Sol and GPT-6 Luna were introduced on September 22, 2026. They provide faster, lower-cost options within the GPT-6 family.
 
