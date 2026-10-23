@@ -6,7 +6,7 @@ This repository is built as a clean reference for ChatGPT and GPT release histor
 
 > [Claude Timeline](https://github.com/jqueryscript/anthropic-claude-timeline)
 
-Last updated: October 9, 2026
+Last updated: October 23, 2026
 
 ## What This Timeline Covers
 
@@ -24,6 +24,22 @@ Last updated: October 9, 2026
 
 | Model or Product | Release Date | Key Highlight |
 |---|---:|---|
+| Decisions API general availability | October 22, 2026 | GPT-6 Luna decisions leave beta with caching and GPT-Live integration. |
+| OpenAI models announced for Google Cloud | October 21, 2026 | Model Garden integration announced; general availability planned in the coming weeks. |
+| Locked chats | October 20, 2026 | PIN or device authentication protects selected chats; rollout spans consumer, Business, Enterprise, and Edu plans. |
+| 12-hour API prompt caching | October 20, 2026 | Optional longer caching for reused context; cache writes cost 2.5 times the uncached input-token rate. |
+| Orchestra Bio acquisition | October 20, 2026 | OpenAI brings Orchestra's drug-development team and platform together with Rosalind. |
+| Low-resource coding research | October 19, 2026 | MultiLangBench and COBOL migration evaluations report stronger results from existing GPT-6 models. |
+| ChatGPT Slides | October 16, 2026 | Collaborative presentations in Space for eligible Pro, Business, and Enterprise users. |
+| GPT-6 Pro update | October 16, 2026 | Faster Chat responses, improved plugin and tool use, and parallel agents for eligible Pro users. |
+| Prompt-to-voice and new API voices | October 16, 2026 | All API customers can create GPT-Live voices from text; nine natural voices also join the API. |
+| Agents API artifacts and Ultrafast | October 16, 2026 | Hosted sandboxes gain document tools; supported models can use Ultrafast. |
+| GPT-Live Decisions integration | October 15, 2026 | Native delegation connects live speech with typed decisions. |
+| Rosalind Academic Plan | October 15, 2026 | Sponsored seats and trusted access to GPT-Rosalind for eligible U.S. university labs. |
+| Chrome tab access and computer use | October 15, 2026 | Chat reads open tabs for answers; Work controls tabs for tasks and tab organization. |
+| GPT-Live-1.1 and Quip in ChatGPT Voice | October 15, 2026 | GPT-Live-1.1 rolls out to all users across ChatGPT Voice, Codex, and dots; API access is coming soon. |
+| AI for Educators in Brazilian Portuguese | October 15, 2026 | Free teacher training on OpenAI Academy. |
+| ChatGPT Sites creation limits | October 15, 2026 | Plus and Pro lose fixed site-count caps; usage and storage limits remain. |
 | GPT-6.1 Sol Ultrafast in the API | October 8, 2026 | Faster output-token generation in the Responses API for all API users; supports global processing and U.S. and EU data residency. |
 | Faster steering in Codex | October 8, 2026 | Desktop rollout lets Codex incorporate follow-up instructions sooner during a running task. |
 | GPT-6 with Intelligent UI | October 7, 2026 | Interactive Chat responses; paid-plan rollout begins October 7, with Free and Go expansion from October 8. |
@@ -39,6 +55,7 @@ Last updated: October 9, 2026
 | Dots | September 29, 2026 | Always-on GPT-6 Astra agents with a cloud computer, connected apps, and user controls. |
 | ChatGPT Space | September 29, 2026 | Shared pages and files for collaboration with teammates, ChatGPT, Codex, and dots on eligible plans. |
 | GPT-6 Astra Ultrafast and Pro 500 | September 29, 2026 | Premium speed tier for eligible API and Pro 500 or Enterprise users; Pro 500 costs $500 per month. |
+| Team Tasks | September 29, 2026 | Shared scheduled or event-triggered work through a team service account and approved connections. |
 | DevDay developer and plugin updates | September 29, 2026 | Agents API computer use, cloud Codex, Codex Security Cloud, plugin extensions, and Sites plugin hosting. |
 | Sign in with ChatGPT and Marketplace | September 29, 2026 | Eligible Plus and Pro users can use plan allowances in participating apps; eligible enterprises can apply commitments to partner products. |
 | GPT-6 Sol and GPT-6 Luna | September 22, 2026 | Faster, lower-cost GPT-6 models for professional work, coding, computer use, and high-volume applications. |
@@ -86,6 +103,22 @@ Last updated: October 9, 2026
 
 | Date | Milestone |
 |---:|---|
+| October 22, 2026 | [Decisions API general availability](https://openai.com/index/decisions-api/): GPT-6 Luna decisions leave beta with caching and GPT-Live integration. |
+| October 21, 2026 | [OpenAI models announced for Google Cloud](https://openai.com/index/openai-models-google-cloud/): Model Garden integration announced; general availability planned in the coming weeks. |
+| October 20, 2026 | [Locked chats](https://help.openai.com/en/articles/20001411-using-locked-chats-in-chatgpt): PIN or device authentication protects selected chats; rollout spans consumer, Business, Enterprise, and Edu plans. |
+| October 20, 2026 | [12-hour API prompt caching](https://developers.openai.com/api/docs/guides/prompt-caching): Optional longer caching for reused context; cache writes cost 2.5 times the uncached input-token rate. |
+| October 20, 2026 | [Orchestra Bio acquisition](https://openai.com/index/openai-to-acquire-orchestra-bio/): OpenAI brings Orchestra's drug-development team and platform together with Rosalind. |
+| October 19, 2026 | [Low-resource coding research](https://openai.com/index/low-resource-programming-languages/): MultiLangBench and COBOL migration evaluations report stronger results from existing GPT-6 models. |
+| October 16, 2026 | [ChatGPT Slides](https://help.openai.com/en/articles/20001605-creating-and-collaborating-on-slides-in-chatgpt): Collaborative presentations in Space for eligible Pro, Business, and Enterprise users. |
+| October 16, 2026 | [GPT-6 Pro update](https://help.openai.com/en/articles/6825453-chatgpt-release-notes): Faster Chat responses, improved plugin and tool use, and parallel agents for eligible Pro users. |
+| October 16, 2026 | [Prompt-to-voice and new API voices](https://developers.openai.com/api/docs/guides/custom-voices): All API customers can create GPT-Live voices from text; nine natural voices also join the API. |
+| October 16, 2026 | [Agents API artifacts and Ultrafast](https://developers.openai.com/api/docs/changelog): Hosted sandboxes gain document tools; supported models can use Ultrafast. |
+| October 15, 2026 | [GPT-Live Decisions integration](https://developers.openai.com/api/docs/changelog): Native delegation connects live speech with typed decisions. |
+| October 15, 2026 | [Rosalind Academic Plan](https://openai.com/index/introducing-the-rosalind-academic-plan/): Sponsored seats and trusted access to GPT-Rosalind for eligible U.S. university labs. |
+| October 15, 2026 | [Chrome tab access and computer use](https://x.com/OpenAI/status/2110797830361436604): Chat reads open tabs for answers; Work controls tabs for tasks and tab organization. |
+| October 15, 2026 | [GPT-Live-1.1 and Quip in ChatGPT Voice](https://help.openai.com/en/articles/6825453-chatgpt-release-notes): GPT-Live-1.1 rolls out to all users across ChatGPT Voice, Codex, and dots; API access is coming soon. |
+| October 15, 2026 | [AI for Educators in Brazilian Portuguese](https://openai.com/index/teaching-students-to-think-and-learn-through-questions/): Free teacher training on OpenAI Academy. |
+| October 15, 2026 | [ChatGPT Sites creation limits](https://help.openai.com/en/articles/6825453-chatgpt-release-notes): Plus and Pro lose fixed site-count caps; usage and storage limits remain. |
 | October 8, 2026 | [GPT-6.1 Sol Ultrafast in the API](https://developers.openai.com/api/docs/changelog): OpenAI added Ultrafast for all API users in the Responses API, with separate pricing and rate limits, global processing, and U.S. and EU data residency. |
 | October 8, 2026 | [Faster steering in Codex](https://help.openai.com/en/articles/6825453-chatgpt-release-notes): Desktop rollout lets Codex incorporate follow-up instructions sooner during a running task. Users can choose to steer the current run or queue a message for the next one. |
 | October 8, 2026 | [False-front influence operations report](https://openai.com/index/disrupting-ai-enabled-false-front-operations/): OpenAI reported banning ChatGPT account clusters linked to Russia-origin Dark Clark and Iran-origin Bogus Bylines, two covert influence operations that used deceptive organizations or journalist personas. |
@@ -107,6 +140,7 @@ Last updated: October 9, 2026
 | October 1, 2026 | [Shopping updates](https://help.openai.com/en/articles/6825453-chatgpt-release-notes): ChatGPT added virtual try-on for clothes and accessories through ChatGPT Images, plus product Favorites and folders on mobile and web. Users can change or delete saved reference photos in Settings. |
 | October 1, 2026 | [ChatGPT camera scanning](https://help.openai.com/en/articles/6825453-chatgpt-release-notes): An iOS rollout added Scan mode to the ChatGPT camera. It combines photos of multiple document pages into one PDF for upload to a chat. |
 | September 30, 2026 | [Model-distillation security report](https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign/): OpenAI reported disrupting a coordinated campaign to extract protected model reasoning. It strengthened technical protections, account enforcement, and monitoring, and shared findings with industry partners. OpenAI said the operators did not gain direct access to stored user conversations. |
+| September 29, 2026 | [Team Tasks](https://learn.chatgpt.com/docs/whats-new/devday-2026): Shared scheduled or event-triggered work through a team service account and approved connections. |
 | September 29, 2026 | OpenAI released [GPT-6.1 Sol](https://openai.com/index/introducing-gpt-6-1-sol/) in ChatGPT Work, Codex, and the API, with stronger coding, computer-use, professional-work, and factuality results than GPT-6 Sol. |
 | September 29, 2026 | OpenAI began rolling out [dots](https://openai.com/index/introducing-dots/), ongoing GPT-6 Astra agents with a cloud computer, connected apps, and user controls. |
 | September 29, 2026 | [Space](https://chatgpt.com/features/space/) replaced Library for eligible plans, adding shared pages, files, and collaboration with ChatGPT, Codex, and dots. |
@@ -162,6 +196,96 @@ Last updated: October 9, 2026
 
 ## Latest ChatGPT, API, and OpenAI Updates
 
+### Decisions API general availability
+
+The Decisions API became generally available on October 22, 2026. It returns probabilities, choices, and scores from text, images, and JSON, with up to 400 questions per request. The release adds native GPT-Live integration, prompt caching, and U.S. and EU inference residency. Input costs $0.10 per million tokens; cached reads cost $0.01. Cache writes have separate rates, and there are no output-token charges.
+
+### OpenAI models announced for Google Cloud
+
+OpenAI announced on October 21, 2026, that its frontier models and Codex workflows are coming to Google Cloud Model Garden. Purchases will run through Google Cloud Marketplace and can draw down Google Cloud spending commitments. General availability is planned in the coming weeks. OpenAI models are also planned for Google Antigravity and Gemini Agent.
+
+### Team Tasks Automate Shared Engineering Work
+
+Team Tasks let teammates share recurring engineering work in ChatGPT, such as a Friday summary of shipped changes and open blockers. Members can review results and change what future runs include. Tasks run in the cloud through the team's service account and configured connections, subject to workspace permissions.
+
+### ChatGPT Adds Locked Chats
+
+On October 20, 2026, ChatGPT began rolling out locked chats to Free, Go, Plus, Pro, Business, Enterprise, and Edu users on the web, iOS, Android, and the new desktop app for macOS and Windows. Selected conversations stay in the account but disappear from regular history, pinned chats, and search.
+
+Users open locked chats with a four-digit account PIN or supported device authentication, such as Face ID, Touch ID, or device unlock on supported mobile devices. New messages sent while a chat is locked do not update regular-chat memory. Retention, model-improvement settings, and applicable workspace compliance requirements still apply.
+
+### OpenAI Adds 12-Hour Prompt Caching
+
+On October 20, 2026, OpenAI added an optional 12-hour prompt cache lifetime to the Responses API. Developers can reuse shared instructions, tools, and reference material across requests that are hours apart.
+
+The 12-hour cache-write rate is 2.5 times the uncached input-token rate. Cache-read pricing is unchanged. The setting defines a minimum cache lifetime, not a deletion deadline.
+
+### OpenAI Acquires Orchestra Bio
+
+On October 20, 2026, OpenAI announced its acquisition of Orchestra Bio, a platform for coordinating drug development. Orchestra's team and technology will join Rosalind, OpenAI's models and tools for life sciences research.
+
+The combined work aims to connect scientific findings with the studies, decisions, and program coordination needed to advance potential medicines. Orchestra's agents track studies and identify how setbacks affect related activities and timelines.
+
+### OpenAI Reports Progress in Low-Resource Programming Languages
+
+On October 19, 2026, OpenAI published evaluations of existing GPT-6 models on languages such as COBOL, Fortran, and Visual Basic. MultiLangBench tests SQLite-compatible database implementations across 20 languages. GPT-6 Astra reached an average test pass rate of 87.4% at maximum reasoning effort, compared with 26.8% for GPT-5.6 Sol.
+
+In a separate COBOL migration evaluation, GPT-6.1 Sol reached 86.6% accuracy at low reasoning effort and 97.9% at higher effort. Production migrations still require expert review and tests against business rules and dependencies.
+
+### ChatGPT Adds Collaborative Slides
+
+On October 16, 2026, ChatGPT Slides began rolling out to eligible Pro, Business, and Enterprise users with Space access. Users can create decks from conversations, files, or outlines, edit slide elements directly, and collaborate with teammates in real time. Shared comments can guide changes by ChatGPT or a dot.
+
+Presentations can run in ChatGPT. Web exports support PowerPoint, PDF, and Google Slides. On Windows devices without the required MXC component, local desktop work uses PowerPoint files; collaborative Slides remain available through cloud mode or the web.
+
+### GPT-6 Pro Gains Faster Responses and Parallel Agents
+
+On October 16, 2026, OpenAI began rolling out a GPT-6 Pro update in the Chat tab for eligible Pro users. It improves response speed and plugin and tool use, and lets multiple agents work on separate parts of a task in parallel. Users can follow their progress and inspect completed tasks. Managed-workspace access depends on settings and rollout eligibility.
+
+### GPT-Live Adds Prompt-to-Voice and Nine API Voices
+
+On October 16, 2026, OpenAI released prompt-to-voice to all API customers. Developers can create a voice from a text description through the API or voice Playground and reuse it in GPT-Live sessions. Voice creation is free; speech generation uses regular session billing.
+
+The API also added nine natural voices across German, French, Hindi, Japanese, and Korean. Prompt-generated voices support GPT-Live; Text to Speech, Realtime, and Chat Completions APIs do not support them.
+
+### Agents API Adds Document Tools and Ultrafast
+
+On October 16, 2026, OpenAI added the Artifact SDK and skills for creating and editing spreadsheets, presentations, and Word documents to Agents API hosted sandboxes. The API also gained Ultrafast mode for supported models through the agent.service_tier setting.
+
+### GPT-Live Adds Native Decisions Integration
+
+On October 15, 2026, OpenAI added native Decisions integration to GPT-Live. Applications can request typed decisions during incoming or outgoing speech through native delegation or transcript updates.
+
+### Rosalind Academic Plan Opens Applications
+
+On October 15, 2026, OpenAI introduced the [Rosalind Academic Plan](https://openai.com/index/introducing-the-rosalind-academic-plan/) for eligible U.S. university labs. Approved labs can receive up to 30 ChatGPT Business Standard seats free for up to 12 months. GPT-Rosalind and Rosalind Workbench support life sciences research, subject to trusted-access approval and usage limits.
+
+Principal investigators or lab leads apply for their labs. Universities with an OpenAI Enterprise agreement use their institutional access process. API access is excluded. Research data is not used for model training by default.
+
+Access requires identity, institutional, and research-use checks, a designated safety contact, and ongoing monitoring. Approval must be followed by workspace setup and member activation.
+
+### ChatGPT Adds Chrome Tab Access and Computer Use
+
+On October 15, 2026, OpenAI announced [Chrome tab access and computer use](https://x.com/OpenAI/status/2110797830361436604) for ChatGPT. In Chat, ChatGPT can read across open Chrome tabs and gather information for answers.
+
+In Work, ChatGPT can control Chrome tabs to send messages, fill out forms, and download files. It can also organize tabs and place them into groups.
+
+### GPT-Live-1.1 and Quip Roll Out in ChatGPT Voice
+
+On October 15, 2026, OpenAI began rolling out [GPT-Live-1.1 and GPT-Live-1.1 Quip](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) in ChatGPT Voice. Quip is the mini version of GPT-Live-1.1. The update improves accents across languages and adds more varied phrases during web searches.
+
+New voices include French, German, Hindi, Japanese, Korean, Mexican Spanish, and Bubbie in English. Availability varies by region and account. Choose a voice in Settings > Voice.
+
+[GPT-Live-1.1](https://x.com/ChatGPT/status/2110823738531037651) also brings the voice update to Codex and dots. The rollout began for all users on October 15. API access is coming soon.
+
+### AI for Educators Adds Brazilian Portuguese
+
+OpenAI launched [AI for Educators in Brazilian Portuguese](https://openai.com/index/teaching-students-to-think-and-learn-through-questions/) on October 15, 2026. The free OpenAI Academy course helps primary, secondary, and higher-education teachers plan lessons, activities, assessments, and communications. Study Mode guides learning through questions, hints, and understanding checks.
+
+### ChatGPT Sites Removes Fixed Creation Limits
+
+On October 15, 2026, OpenAI removed the [fixed limit on Sites creation](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) for Plus and Pro users. Usage and storage limits still apply.
+
 ### GPT-6.1 Sol Ultrafast Opens to All API Users
 
 On October 8, 2026, OpenAI added [Ultrafast mode for GPT-6.1 Sol](https://developers.openai.com/api/docs/guides/ultrafast-mode) to the Responses API. The service tier reduces the time between generated output tokens and is available to all API users, subject to separate rate limits. Developers select `gpt-6.1-sol` with `service_tier: "ultrafast"`.
@@ -210,7 +334,7 @@ On October 6, 2026, OpenAI published [mathematical results](https://openai.com/i
 
 ### Decisions API Enters Public Beta
 
-Released on October 6, 2026, the [Decisions API](https://developers.openai.com/api/docs/guides/decisions) uses GPT-6 Luna to return probabilities, fixed choices, or rubric scores from text and images. OpenAI reports roughly 10 times faster answers than the Responses API. Input costs $0.10 per million tokens, with no output or cache charges; regional and long-context premiums apply.
+Released on October 6, 2026, the [Decisions API](https://developers.openai.com/api/docs/guides/decisions) uses GPT-6 Luna to return probabilities, fixed choices, or rubric scores from text and images. OpenAI reports roughly 10 times faster answers than the Responses API. The API became generally available on October 22; current pricing includes separate cached-read and cache-write rates.
 
 ### ChatGPT Adds Audio File Uploads
 
@@ -296,7 +420,11 @@ OpenAI also previewed [Ultrafast mode](https://openai.com/index/previewing-ultra
 
 ## Latest OpenAI Models
 
-GPT-6 with Intelligent UI is the latest Chat release, announced on October 7, 2026. GPT-6.1 Sol is the latest Sol release for Work, Codex, and the API. Released on September 29, 2026, it improves on GPT-6 Sol while retaining its $2 input and $10 output API prices per million tokens. Cached input costs $0.10 per million tokens. GPT-6 Astra is OpenAI's most capable model across the family. GPT-6.1 Sol Ultrafast became available to all API users on October 8, 2026, with separate pricing and rate limits.
+The October 16 GPT-6 Pro update adds faster responses, better plugin and tool use, and parallel agents in Chat for eligible Pro users.
+
+GPT-Rosalind is a specialized life sciences model with trusted access. The October 15 Rosalind Academic Plan expands sponsored access for eligible U.S. university labs. GPT-Live-1.1 began rolling out to all users across ChatGPT Voice, Codex, and dots that day, with API access coming soon. ChatGPT Voice also added the mini variant Quip.
+
+GPT-6 with Intelligent UI began rolling out in Chat on October 7, 2026. GPT-6 Pro received a Chat update on October 16 with faster responses, improved tool use, and parallel agents. GPT-6.1 Sol is the latest Sol release for Work, Codex, and the API. Released on September 29, 2026, it improves on GPT-6 Sol while retaining its $2 input and $10 output API prices per million tokens. Cached input costs $0.10 per million tokens. GPT-6 Astra is OpenAI's most capable model across the family. GPT-6.1 Sol Ultrafast became available to all API users on October 8, 2026, with separate pricing and rate limits.
 
 GPT-6 Sol and GPT-6 Luna were introduced on September 22, 2026. They provide faster, lower-cost options within the GPT-6 family.
 
