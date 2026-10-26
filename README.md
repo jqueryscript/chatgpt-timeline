@@ -6,7 +6,7 @@ This repository is built as a clean reference for ChatGPT and GPT release histor
 
 > [Claude Timeline](https://github.com/jqueryscript/anthropic-claude-timeline)
 
-Last updated: October 23, 2026
+Last updated: October 27, 2026
 
 ## What This Timeline Covers
 
@@ -24,6 +24,10 @@ Last updated: October 23, 2026
 
 | Model or Product | Release Date | Key Highlight |
 |---|---:|---|
+| GPT-6.1 Terra | October 26, 2026 | Visual reasoning, computer use, and writing at $1 input and $5 output per million API tokens. |
+| AI scientific results and academic collaborations | October 26, 2026 | OpenAI shared results on local smoothing, the Exponential Time Hypothesis, and quantum field theory for expert examination. |
+| OpenAI Signals work-activity data | October 26, 2026 | Public data spans 165 work activities across nearly 100 countries, from Q1 2025 through Q3 2026. |
+| Frontier training containment update | October 23, 2026 | OpenAI described offline research environments, agent red-teaming, and fixes to isolation weaknesses. |
 | Decisions API general availability | October 22, 2026 | GPT-6 Luna decisions leave beta with caching and GPT-Live integration. |
 | OpenAI models announced for Google Cloud | October 21, 2026 | Model Garden integration announced; general availability planned in the coming weeks. |
 | Locked chats | October 20, 2026 | PIN or device authentication protects selected chats; rollout spans consumer, Business, Enterprise, and Edu plans. |
@@ -103,6 +107,10 @@ Last updated: October 23, 2026
 
 | Date | Milestone |
 |---:|---|
+| October 26, 2026 | [GPT-6.1 Terra](https://openai.com/index/introducing-gpt-6-1-terra/): Visual reasoning, computer use, and writing at $1 input and $5 output per million API tokens. |
+| October 26, 2026 | [AI scientific results and academic collaborations](https://openai.com/index/building-scientific-understanding-with-academic-communities/): OpenAI shared results on local smoothing, the Exponential Time Hypothesis, and quantum field theory for expert examination. |
+| October 26, 2026 | [OpenAI Signals work-activity data](https://openai.com/index/chatgpt-expanding-world-of-work/): Public data spans 165 work activities across nearly 100 countries, from Q1 2025 through Q3 2026. |
+| October 23, 2026 | [Frontier training containment update](https://openai.com/index/securing-our-frontier-model-training-environment/): OpenAI described offline research environments, agent red-teaming, and fixes to isolation weaknesses. |
 | October 22, 2026 | [Decisions API general availability](https://openai.com/index/decisions-api/): GPT-6 Luna decisions leave beta with caching and GPT-Live integration. |
 | October 21, 2026 | [OpenAI models announced for Google Cloud](https://openai.com/index/openai-models-google-cloud/): Model Garden integration announced; general availability planned in the coming weeks. |
 | October 20, 2026 | [Locked chats](https://help.openai.com/en/articles/20001411-using-locked-chats-in-chatgpt): PIN or device authentication protects selected chats; rollout spans consumer, Business, Enterprise, and Edu plans. |
@@ -195,6 +203,28 @@ Last updated: October 23, 2026
 | June 2018 | OpenAI published the first GPT research system through work on generative pre-training for language understanding. |
 
 ## Latest ChatGPT, API, and OpenAI Updates
+
+### GPT-6.1 Terra
+
+GPT-6.1 Terra launched on October 26 for Plus, Pro, Enterprise, and Edu users in ChatGPT Work and Codex, and through the API as `gpt-6.1-terra`.
+
+Standard API prices per million tokens are $1 input, $0.05 cached input, and $5 output. Prompts above 272,000 input tokens cost twice the input and cache rates and 1.5 times the output rate. The context window is 1,050,000 tokens, with up to 128,000 output tokens.
+
+OpenAI reports a 50.3% Terminal-Bench 4.0 score at maximum reasoning effort. Internal factuality error rates fell to 16.7% at low effort and 4.3% at maximum effort. On Agents' Last Exam, medium-effort Terra scored 15 percentage points above GPT-5.6 Terra; reported task completion was over three times faster than Astra and Sol.
+
+OpenAI treats Terra as Critical for cybersecurity and High for biological and chemical capabilities. It applies the Astra and Sol safeguards stack, with model-specific probes.
+
+### AI scientific results and academic collaborations
+
+On October 26, OpenAI reported model-generated results on local smoothing and related conjectures, the Exponential Time Hypothesis, and quantum field theory. Mathematics and computer science materials include public Lean proofs. External groups will examine the computer science and physics results; the physics group controls release of its materials.
+
+### OpenAI Signals work-activity data
+
+OpenAI released work-activity data on October 26 for 165 activities across nearly 100 countries, from Q1 2025 through Q3 2026. The aggregated dataset covers individual ChatGPT plans and excludes enterprise messages and Codex use.
+
+### Frontier training containment update
+
+On October 23, OpenAI described stronger containment for internal frontier-model training and evaluation. Agent red-teaming found software vulnerabilities, network misconfigurations, and communication paths across isolated tasks. Fixes included patches, tighter network controls, and monitoring. The report references an upcoming GPT-6 Astra Cyber model.
 
 ### Decisions API general availability
 
@@ -419,6 +449,8 @@ Users choose which apps and websites can contribute. Computer History records in
 OpenAI also previewed [Ultrafast mode](https://openai.com/index/previewing-ultrafast/) for GPT-5.6 Sol on August 14, 2026. The mode can run GPT-5.6 Sol at up to 14 times the speed.
 
 ## Latest OpenAI Models
+
+GPT-6.1 Terra, released on October 26, 2026, is the newest GPT model for Work, Codex, and the API. It targets visual reasoning, computer use, and writing.
 
 The October 16 GPT-6 Pro update adds faster responses, better plugin and tool use, and parallel agents in Chat for eligible Pro users.
 
