@@ -6,7 +6,7 @@ This repository is built as a clean reference for ChatGPT and GPT release histor
 
 > [Claude Timeline](https://github.com/jqueryscript/anthropic-claude-timeline)
 
-Last updated: October 27, 2026
+Last updated: November 11, 2026
 
 ## What This Timeline Covers
 
@@ -24,6 +24,15 @@ Last updated: October 27, 2026
 
 | Model or Product | Release Date | Key Highlight |
 |---|---:|---|
+| Businesses in ChatGPT | November 10, 2026 | Business Hub beta adds verified profiles, product feeds, and aggregated insights; Business Agents start with eligible U.S. businesses. |
+| ChatGPT Enterprise in AWS Marketplace | November 9, 2026 | Organizations can purchase ChatGPT Enterprise through AWS and apply eligible spending toward AWS commitments. |
+| Control Room | November 9, 2026 | OpenAI describes its deployed research safety system, which stops model output within 35 seconds of an intervention instruction. |
+| GPT-6 Cyber | November 5, 2026 | Cybersecurity model for authorized vulnerability research, initially available in the API and Codex to select approved Daybreak Red customers. |
+| Images 2.6 | November 4, 2026 | Faster image generation, GIFs, and API editing controls across ChatGPT, Codex, and the API. |
+| Daybreak Red in AWS GovCloud | November 4, 2026 | Approved customers can access GPT-5.6 Cyber through Amazon Bedrock in AWS GovCloud (US-East). |
+| GPT-6 Rosalind Research | October 30, 2026 | Limited rollout for approved life sciences Research customers in Work, Codex, and the API. |
+| Updated Model Spec | October 29, 2026 | Behavior guidance reorganized around human intent, harm minimization, honesty, human agency, and care. |
+| GPT-6 Chat behavior update | October 29, 2026 | More concise responses and less flattery for Free, Go, logged-out users, and the Plus/Pro fallback. |
 | GPT-6.1 Terra | October 26, 2026 | Visual reasoning, computer use, and writing at $1 input and $5 output per million API tokens. |
 | AI scientific results and academic collaborations | October 26, 2026 | OpenAI shared results on local smoothing, the Exponential Time Hypothesis, and quantum field theory for expert examination. |
 | OpenAI Signals work-activity data | October 26, 2026 | Public data spans 165 work activities across nearly 100 countries, from Q1 2025 through Q3 2026. |
@@ -107,6 +116,15 @@ Last updated: October 27, 2026
 
 | Date | Milestone |
 |---:|---|
+| November 10, 2026 | [Businesses in ChatGPT](https://openai.com/index/introducing-businesses-chatgpt/): Business Hub beta adds verified profiles, product feeds, and aggregated insights; Business Agents start with eligible U.S. businesses. |
+| November 9, 2026 | [ChatGPT Enterprise in AWS Marketplace](https://openai.com/index/chatgpt-enterprise-aws-marketplace/): Organizations can purchase ChatGPT Enterprise through AWS and apply eligible spending toward AWS commitments. |
+| November 9, 2026 | [Control Room](https://openai.com/index/control-room/): OpenAI describes its deployed research safety system, which stops model output within 35 seconds of an intervention instruction. |
+| November 5, 2026 | [GPT-6 Cyber](https://openai.com/index/introducing-gpt-6-cyber/): Cybersecurity model for authorized vulnerability research, initially available in the API and Codex to select approved Daybreak Red customers. |
+| November 4, 2026 | [Images 2.6](https://openai.com/index/introducing-images-2-6/): Faster image generation, GIFs, and API editing controls across ChatGPT, Codex, and the API. |
+| November 4, 2026 | [Daybreak Red in AWS GovCloud](https://openai.com/index/daybreak-red-aws-govcloud/): Approved customers can access GPT-5.6 Cyber through Amazon Bedrock in AWS GovCloud (US-East). |
+| October 30, 2026 | [GPT-6 Rosalind Research](https://help.openai.com/en/articles/9624314-model-release-notes): Limited rollout for approved life sciences Research customers in Work, Codex, and the API. |
+| October 29, 2026 | [Updated Model Spec](https://openai.com/index/updated-model-spec/): Behavior guidance reorganized around human intent, harm minimization, honesty, human agency, and care. |
+| October 29, 2026 | [GPT-6 Chat behavior update](https://help.openai.com/en/articles/9624314-model-release-notes): More concise responses and less flattery for Free, Go, logged-out users, and the Plus/Pro fallback. |
 | October 26, 2026 | [GPT-6.1 Terra](https://openai.com/index/introducing-gpt-6-1-terra/): Visual reasoning, computer use, and writing at $1 input and $5 output per million API tokens. |
 | October 26, 2026 | [AI scientific results and academic collaborations](https://openai.com/index/building-scientific-understanding-with-academic-communities/): OpenAI shared results on local smoothing, the Exponential Time Hypothesis, and quantum field theory for expert examination. |
 | October 26, 2026 | [OpenAI Signals work-activity data](https://openai.com/index/chatgpt-expanding-world-of-work/): Public data spans 165 work activities across nearly 100 countries, from Q1 2025 through Q3 2026. |
@@ -203,6 +221,66 @@ Last updated: October 27, 2026
 | June 2018 | OpenAI published the first GPT research system through work on generative pre-training for language understanding. |
 
 ## Latest ChatGPT, API, and OpenAI Updates
+
+### Businesses in ChatGPT
+
+OpenAI introduced Businesses in ChatGPT in beta on November 10, 2026. Eligible businesses in supported ChatGPT markets can claim profiles through Business Hub, update information, and submit product feeds. Aggregated insights show mentions, website clicks, and discovery topics without exposing user conversations. Business Agents initially serve eligible U.S. ecommerce and online service businesses. Their labeled conversations are separate from ChatGPT’s independent answers. [Announcement](https://openai.com/index/introducing-businesses-chatgpt/)
+
+### ChatGPT Enterprise in AWS Marketplace
+
+ChatGPT Enterprise became available in AWS Marketplace on November 9, 2026. Organizations can use AWS purchasing and billing and apply eligible spending toward AWS commitments. The offering includes the same models, features, and release timing as direct OpenAI access. Eligible customers can also access ChatGPT for Healthcare and Financial Services through the marketplace. [Announcement](https://openai.com/index/chatgpt-enterprise-aws-marketplace/)
+
+### Control Room
+
+On November 9, 2026, OpenAI described Control Room, a system already deployed across its research infrastructure. It tracks inference workloads and can stop model output within 35 seconds of an intervention instruction. Authorization checks operate at the inference layer. Fail-closed protection already applies to frontier research workloads, with the remaining research rollout planned over the following days. [Announcement](https://openai.com/index/control-room/)
+
+### GPT-6 Cyber
+
+OpenAI introduced GPT-6 Cyber on November 5, 2026, for vulnerability discovery, exploit validation, and patch development. Initial API and Codex access is limited to select approved Daybreak Red customers, with broader Red access planned.
+
+On ExploitGym, it scored 48.5%, compared with 32.1% for GPT-5.6 Cyber. It avoided out-of-scope exploitation in 99.93% of Honeypot tests without deployment safety prompts and 100% with them. OpenAI classifies its cybersecurity capability as Critical.
+
+Researchers used the model to develop 948 Linux kernel exploits and identify 81 previously unknown high-severity Firefox vulnerabilities. Safeguards include authorization monitoring, default API IP allowlisting, and Private Safety Processing requirements for most Zero Data Retention customers. Approved critical-infrastructure defenders receive a separate Daybreak Red access group.
+
+[Official announcement](https://openai.com/index/introducing-gpt-6-cyber/)
+
+### Images 2.6
+
+OpenAI released Images 2.6 globally on November 4, 2026, across all ChatGPT and Codex subscription tiers on desktop, mobile, and web. It adds GIF creation and generates images 50% faster than its predecessor.
+
+The API offers GPT-Image-2.6 Flare and Sunburst. Flare can generate low-quality images in as little as six seconds and improves professional layouts. Sunburst improves detail and consistency across edits at medium or high quality. API controls add image markup, SVG exports, and a complexity parameter for planning effort, separate from visual quality.
+
+[Official update](https://openai.com/index/introducing-images-2-6/)
+
+### Daybreak Red in AWS GovCloud
+
+GPT-5.6 Cyber became available through Daybreak Red in AWS GovCloud (US-East) on November 4, 2026. Access requires both OpenAI approval and AWS provisioning; Daybreak Red approval alone does not enable AWS access.
+
+The service supports authorized vulnerability research, exploit validation, and security testing, with identity verification, monitoring, and access controls. Inference data is not used for model training, and customers do not need to share their Daybreak Red data with OpenAI.
+
+[Official update](https://openai.com/index/daybreak-red-aws-govcloud/)
+
+### GPT-6 Rosalind Research
+
+GPT-6 Rosalind Research began a limited rollout on October 30, 2026, for approved life sciences Research customers in Work, Codex, and the API as `gpt-6-rosalind`. It is unavailable in Chat. Organizations and users need Research approval; Discovery approval does not qualify.
+
+Enterprise access starts with a two-week Admin Preview and is off by default. GPT-5.5 Rosalind Research remains available, and Rosalind Discovery remains on GPT-5.5.
+
+[Official update](https://help.openai.com/en/articles/9624314-model-release-notes)
+
+### Updated Model Spec
+
+OpenAI revised its Model Spec on October 29, 2026, around five values: faithfulness to human intent, harm minimization, honesty and transparency, human agency, and care.
+
+The revision updates the instruction hierarchy and adds guidance on context, oversight, agency, social norms, and side effects. It retires most detailed style rules so responses can adapt to user preferences while retaining stronger defaults such as objectivity.
+
+[Official update](https://openai.com/index/updated-model-spec/)
+
+### GPT-6 Chat behavior update
+
+The October 29, 2026 GPT-6 Chat update reduces response length and excessive flattery for Free, Go, and logged-out users. On Plus and Pro, it applies only to the fallback model used after GPT-6 message limits; the main GPT-6 model is unchanged.
+
+[Official update](https://help.openai.com/en/articles/9624314-model-release-notes)
 
 ### GPT-6.1 Terra
 
@@ -402,7 +480,7 @@ On October 1, ChatGPT added virtual try-on for clothing and accessories through 
 
 ### GPT-6 Models and DevDay 2026
 
-OpenAI introduced [GPT-6.1 Sol](https://openai.com/index/introducing-gpt-6-1-sol/) on September 29, 2026. It improves on GPT-6 Sol in coding, complex documents, business workflows, computer use, scientific tasks, and factual accuracy. GPT-6 Astra is the most capable model in the family. GPT-6.1 Sol is available in ChatGPT Work and Codex for Plus, Pro, Business, Enterprise, and Edu users and in the API as `gpt-6.1-sol`. It is not yet available in standard Chat. API prices per million tokens are $2 for input, $0.10 for cached input, and $10 for output.
+OpenAI introduced [GPT-6.1 Sol](https://openai.com/index/introducing-gpt-6-1-sol/) on September 29, 2026. It improves on GPT-6 Sol in coding, complex documents, business workflows, computer use, scientific tasks, and factual accuracy. GPT-6 Astra is the most capable general-purpose model in the family. GPT-6.1 Sol is available in ChatGPT Work and Codex for Plus, Pro, Business, Enterprise, and Edu users and in the API as `gpt-6.1-sol`. It is not yet available in standard Chat. API prices per million tokens are $2 for input, $0.10 for cached input, and $10 for output.
 
 OpenAI also introduced [dots](https://openai.com/index/introducing-dots/), ongoing GPT-6 Astra agents that work through a cloud computer and connected apps. Users can inspect their work and set action rules. A first dot is included for Pro and Business Premium users in eligible markets, while Enterprise, Edu, and Healthcare workspaces can try a beta with administrator approval. [ChatGPT Space](https://chatgpt.com/features/space/) replaced Library for Pro, Business, and Enterprise users, with shared pages, files, and collaboration with ChatGPT, Codex, and dots. Mobile creation and editing, collaborative slides, and collaborative spreadsheets are planned for later.
 
@@ -450,13 +528,17 @@ OpenAI also previewed [Ultrafast mode](https://openai.com/index/previewing-ultra
 
 ## Latest OpenAI Models
 
-GPT-6.1 Terra, released on October 26, 2026, is the newest GPT model for Work, Codex, and the API. It targets visual reasoning, computer use, and writing.
+GPT-6 Cyber is the latest specialized cybersecurity release, introduced November 5, 2026, with restricted Daybreak Red access through the API and Codex.
+
+Images 2.6 is the latest image release, dated November 4, 2026. GPT-6 Rosalind Research began a limited rollout on October 30 for approved life sciences Research customers in Work, Codex, and the API.
+
+GPT-6.1 Terra, released on October 26, 2026, is the newest general-purpose GPT release for Work, Codex, and the API. It targets visual reasoning, computer use, and writing.
 
 The October 16 GPT-6 Pro update adds faster responses, better plugin and tool use, and parallel agents in Chat for eligible Pro users.
 
 GPT-Rosalind is a specialized life sciences model with trusted access. The October 15 Rosalind Academic Plan expands sponsored access for eligible U.S. university labs. GPT-Live-1.1 began rolling out to all users across ChatGPT Voice, Codex, and dots that day, with API access coming soon. ChatGPT Voice also added the mini variant Quip.
 
-GPT-6 with Intelligent UI began rolling out in Chat on October 7, 2026. GPT-6 Pro received a Chat update on October 16 with faster responses, improved tool use, and parallel agents. GPT-6.1 Sol is the latest Sol release for Work, Codex, and the API. Released on September 29, 2026, it improves on GPT-6 Sol while retaining its $2 input and $10 output API prices per million tokens. Cached input costs $0.10 per million tokens. GPT-6 Astra is OpenAI's most capable model across the family. GPT-6.1 Sol Ultrafast became available to all API users on October 8, 2026, with separate pricing and rate limits.
+GPT-6 with Intelligent UI began rolling out in Chat on October 7, 2026. GPT-6 Pro received a Chat update on October 16 with faster responses, improved tool use, and parallel agents. GPT-6.1 Sol is the latest Sol release for Work, Codex, and the API. Released on September 29, 2026, it improves on GPT-6 Sol while retaining its $2 input and $10 output API prices per million tokens. Cached input costs $0.10 per million tokens. GPT-6 Astra is OpenAI's most capable general-purpose model in the family. GPT-6.1 Sol Ultrafast became available to all API users on October 8, 2026, with separate pricing and rate limits.
 
 GPT-6 Sol and GPT-6 Luna were introduced on September 22, 2026. They provide faster, lower-cost options within the GPT-6 family.
 
