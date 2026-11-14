@@ -6,7 +6,7 @@ This repository is built as a clean reference for ChatGPT and GPT release histor
 
 > [Claude Timeline](https://github.com/jqueryscript/anthropic-claude-timeline)
 
-Last updated: November 11, 2026
+Last updated: November 14, 2026
 
 ## What This Timeline Covers
 
@@ -24,6 +24,11 @@ Last updated: November 11, 2026
 
 | Model or Product | Release Date | Key Highlight |
 |---|---:|---|
+| ChatGPT Wallet | November 13, 2026 | U.S. ChatGPT Pro subscribers aged 18 or older can authorize purchases by their dot with an eligible U.S.-issued card and U.S. billing address as access rolls out. |
+| Email address changes in Admin Console | November 12, 2026 | Global admins can change email addresses for eligible non-SCIM users on verified domains. |
+| ChatGPT Plus for veterans and servicemembers | November 11, 2026 | OpenAI reported that more than 20,000 transitioning servicemembers and veterans had claimed a free year of ChatGPT Plus over the previous year. |
+| GPT-6 Luna regional inference | November 10, 2026 | GPT-6 Luna inference residency became generally available in India, Japan, and Australia for organizations with approved, active Zero Data Retention. |
+| Advanced and Standard Voice retirement announced | November 10, 2026 | OpenAI scheduled both ChatGPT voice modes for retirement on December 11, 2026. |
 | Businesses in ChatGPT | November 10, 2026 | Business Hub beta adds verified profiles, product feeds, and aggregated insights; Business Agents start with eligible U.S. businesses. |
 | ChatGPT Enterprise in AWS Marketplace | November 9, 2026 | Organizations can purchase ChatGPT Enterprise through AWS and apply eligible spending toward AWS commitments. |
 | Control Room | November 9, 2026 | OpenAI describes its deployed research safety system, which stops model output within 35 seconds of an intervention instruction. |
@@ -116,6 +121,11 @@ Last updated: November 11, 2026
 
 | Date | Milestone |
 |---:|---|
+| November 13, 2026 | [ChatGPT Wallet](https://openai.com/index/introducing-chatgpt-wallet/): U.S. ChatGPT Pro subscribers aged 18 or older can authorize purchases by their dot with an eligible U.S.-issued card and U.S. billing address as access rolls out. |
+| November 12, 2026 | [Email address changes in Admin Console](https://openai.com/products/release-notes/): Global admins can change email addresses for eligible non-SCIM users on verified domains. |
+| November 11, 2026 | [ChatGPT Plus for veterans and servicemembers](https://openai.com/index/chatgpt-plus-for-veterans/): OpenAI reported that more than 20,000 transitioning servicemembers and veterans had claimed a free year of ChatGPT Plus over the previous year. |
+| November 10, 2026 | [GPT-6 Luna regional inference](https://openai.com/products/release-notes/): GPT-6 Luna inference residency became generally available in India, Japan, and Australia for organizations with approved, active Zero Data Retention. |
+| November 10, 2026 | [Advanced and Standard Voice retirement announced](https://openai.com/products/release-notes/): OpenAI scheduled both ChatGPT voice modes for retirement on December 11, 2026. |
 | November 10, 2026 | [Businesses in ChatGPT](https://openai.com/index/introducing-businesses-chatgpt/): Business Hub beta adds verified profiles, product feeds, and aggregated insights; Business Agents start with eligible U.S. businesses. |
 | November 9, 2026 | [ChatGPT Enterprise in AWS Marketplace](https://openai.com/index/chatgpt-enterprise-aws-marketplace/): Organizations can purchase ChatGPT Enterprise through AWS and apply eligible spending toward AWS commitments. |
 | November 9, 2026 | [Control Room](https://openai.com/index/control-room/): OpenAI describes its deployed research safety system, which stops model output within 35 seconds of an intervention instruction. |
@@ -221,6 +231,26 @@ Last updated: November 11, 2026
 | June 2018 | OpenAI published the first GPT research system through work on generative pre-training for language understanding. |
 
 ## Latest ChatGPT, API, and OpenAI Updates
+
+### ChatGPT Wallet
+
+U.S. ChatGPT Pro subscribers aged 18 or older can authorize purchases by their dot with an eligible U.S.-issued card and U.S. billing address as access rolls out. ChatGPT Wallet began rolling out in dots on November 13, 2026. Users review the merchant, items, total, and selected card, then approve each purchase with a security check such as Face ID or a fingerprint scan. The payment network supplies a token so the merchant and agent never receive the actual card details. Eligible card rewards and dispute protections still apply. OpenAI developed Wallet with American Express, Mastercard, and Visa. [Announcement](https://openai.com/index/introducing-chatgpt-wallet/)
+
+### Email address changes in Admin Console
+
+Global admins can change email addresses for eligible non-SCIM users on verified domains. The update applies to eligible Business, Enterprise, Edu, and Healthcare accounts. Both domains must be verified in the same tenant, and the new address must be available. Users managed through SCIM still update their address through their identity provider. [Announcement](https://openai.com/products/release-notes/)
+
+### ChatGPT Plus for veterans and servicemembers
+
+OpenAI reported that more than 20,000 transitioning servicemembers and veterans had claimed a free year of ChatGPT Plus over the previous year. [Announcement](https://openai.com/index/chatgpt-plus-for-veterans/)
+
+### GPT-6 Luna regional inference
+
+GPT-6 Luna inference residency became generally available in India, Japan, and Australia for organizations with approved, active Zero Data Retention. Supported requests are processed and run in the selected country. The Responses and Chat Completions APIs support text and image inputs with text output through eligible regional projects configured for Storage & Processing. [Announcement](https://openai.com/products/release-notes/)
+
+### Advanced and Standard Voice retirement announced
+
+OpenAI scheduled both ChatGPT voice modes for retirement on December 11, 2026. Advanced Voice will continue to power live video and screen sharing until GPT-Live supports both features. [Announcement](https://openai.com/products/release-notes/)
 
 ### Businesses in ChatGPT
 
