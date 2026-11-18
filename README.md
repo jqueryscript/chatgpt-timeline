@@ -6,7 +6,7 @@ This repository is built as a clean reference for ChatGPT and GPT release histor
 
 > [Claude Timeline](https://github.com/jqueryscript/anthropic-claude-timeline)
 
-Last updated: November 14, 2026
+Last updated: November 18, 2026
 
 ## What This Timeline Covers
 
@@ -24,6 +24,14 @@ Last updated: November 14, 2026
 
 | Model or Product | Release Date | Key Highlight |
 |---|---:|---|
+| Dots enabled by default in eligible workspaces | November 18, 2026 | Eligible Enterprise, Edu, and Healthcare workspaces get personal dots by default after the admin preview, with an opt-out for admins. |
+| GPT-6.2 Astra and GPT-6.2 Sol | November 17, 2026 | Astra for complex coding and professional work, and Sol for everyday tasks in ChatGPT Work, Codex, and the API. |
+| ChatGPT for Sales | November 17, 2026 | A Sales plugin and more than 30 new or updated partner plugins for account research, call preparation, and follow-up. |
+| Astra for Law update | November 17, 2026 | A GPT-6.2 Astra configuration with an expanded legal search index. All Enterprise customers can request access. |
+| Discounted API background completion | November 17, 2026 | The Responses API public beta offers two-hour and eight-hour completion windows at reduced token rates. |
+| ChatGPT for Academic Researchers expansion | November 16, 2026 | OpenAI announced 50,000 new grants of free ChatGPT Plus access, each for a researcher and up to two collaborators. |
+| ChatGPT for Healthcare update | November 16, 2026 | OpenAI improved clinical search, added more than 20 healthcare plugins, and introduced computer-use workflows for healthcare teams. |
+| OpenAI CSAM Image Classifier | November 16, 2026 | Approved organizations can use a free API classifier to prioritize suspected child sexual abuse material for human review. |
 | ChatGPT Wallet | November 13, 2026 | U.S. ChatGPT Pro subscribers aged 18 or older can authorize purchases by their dot with an eligible U.S.-issued card and U.S. billing address as access rolls out. |
 | Email address changes in Admin Console | November 12, 2026 | Global admins can change email addresses for eligible non-SCIM users on verified domains. |
 | ChatGPT Plus for veterans and servicemembers | November 11, 2026 | OpenAI reported that more than 20,000 transitioning servicemembers and veterans had claimed a free year of ChatGPT Plus over the previous year. |
@@ -121,6 +129,14 @@ Last updated: November 14, 2026
 
 | Date | Milestone |
 |---:|---|
+| November 18, 2026 | [Dots enabled by default in eligible workspaces](https://help.openai.com/en/articles/10128477-chatgpt-enterprise-and-edu-release-notes): Eligible Enterprise, Edu, and Healthcare workspaces get personal dots by default after the admin preview, with an opt-out for admins. |
+| November 17, 2026 | [GPT-6.2 Astra and GPT-6.2 Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/): Astra for complex coding and professional work, and Sol for everyday tasks in ChatGPT Work, Codex, and the API. |
+| November 17, 2026 | [ChatGPT for Sales](https://openai.com/index/introducing-chatgpt-for-sales/): A Sales plugin and more than 30 new or updated partner plugins for account research, call preparation, and follow-up. |
+| November 17, 2026 | [Astra for Law update](https://openai.com/index/astra-law-6-2/): A GPT-6.2 Astra configuration with an expanded legal search index. All Enterprise customers can request access. |
+| November 17, 2026 | [Discounted API background completion](https://developers.openai.com/api/docs/changelog): The Responses API public beta offers two-hour and eight-hour completion windows at reduced token rates. |
+| November 16, 2026 | [ChatGPT for Academic Researchers expansion](https://openai.com/index/expanding-chatgpt-for-academic-researchers/): OpenAI announced 50,000 new grants of free ChatGPT Plus access, each for a researcher and up to two collaborators. |
+| November 16, 2026 | [ChatGPT for Healthcare update](https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare/): OpenAI improved clinical search, added more than 20 healthcare plugins, and introduced computer-use workflows for healthcare teams. |
+| November 16, 2026 | [OpenAI CSAM Image Classifier](https://developers.openai.com/api/docs/guides/csam-classifier): Approved organizations can use a free API classifier to prioritize suspected child sexual abuse material for human review. |
 | November 13, 2026 | [ChatGPT Wallet](https://openai.com/index/introducing-chatgpt-wallet/): U.S. ChatGPT Pro subscribers aged 18 or older can authorize purchases by their dot with an eligible U.S.-issued card and U.S. billing address as access rolls out. |
 | November 12, 2026 | [Email address changes in Admin Console](https://openai.com/products/release-notes/): Global admins can change email addresses for eligible non-SCIM users on verified domains. |
 | November 11, 2026 | [ChatGPT Plus for veterans and servicemembers](https://openai.com/index/chatgpt-plus-for-veterans/): OpenAI reported that more than 20,000 transitioning servicemembers and veterans had claimed a free year of ChatGPT Plus over the previous year. |
@@ -232,9 +248,49 @@ Last updated: November 14, 2026
 
 ## Latest ChatGPT, API, and OpenAI Updates
 
+### Dots enabled by default in eligible workspaces
+
+On November 18, 2026, the admin preview ends and personal dots become available by default in eligible ChatGPT Enterprise, Edu, and Healthcare workspaces unless an admin opts out. Workspaces with UAE data or inference residency are excluded. [Source](https://help.openai.com/en/articles/10128477-chatgpt-enterprise-and-edu-release-notes)
+
+### GPT-6.2 Astra and GPT-6.2 Sol
+
+OpenAI released GPT-6.2 Astra and GPT-6.2 Sol on November 17, 2026, in ChatGPT Work, Codex, and the API. Astra is the flagship for demanding coding and professional projects. Sol is the lower-cost model for everyday work and multistep tasks. [Announcement](https://openai.com/index/introducing-gpt-6-2-astra-sol/)
+
+Astra follows document and slide templates more closely and handles complex code changes and visual work such as CAD. On Agents' Last Exam, OpenAI reports that Astra scored 5.2 points above GPT-6 Astra at less than a third of the cost per task. Sol came within 0.5 points of Astra on FrontierCode 2.0 at about one-fifth the cost, with both models tested at maximum reasoning effort.
+
+Plus, Pro, Enterprise, and Edu users can select either model in ChatGPT Work and Codex. At launch, the regular Chat tab continues to use its existing models. Pro 500 includes Ultrafast for both models. Pro 200 includes Ultrafast for GPT-6.2 Sol. Eligible Enterprise and Edu users get the same access when their admin enables it.
+
+The API model IDs are `gpt-6.2-astra` and `gpt-6.2-sol`. Both accept text and images and return text. They support Responses and Chat Completions, with tool calling available through Responses. Both support Ultrafast API requests. Standard API rates per million tokens are $8 input, $0.40 cached input, and $40 output for Astra, and $2 input, $0.10 cached input, and $10 output for Sol. Requests above 272,000 input tokens cost more. Both models have a 1,050,000-token context window, with up to 922,000 input tokens and 128,000 output tokens. [Astra API specs](https://developers.openai.com/api/docs/models/gpt-6.2-astra) [Sol API specs](https://developers.openai.com/api/docs/models/gpt-6.2-sol)
+
+OpenAI classifies both models as Critical for cybersecurity capability and High for biological and chemical capability. The release adds tighter safeguards for high-risk requests. Astra is also OpenAI's first externally released model to reach the High threshold for AI self-improvement. [System card](https://deploymentsafety.openai.com/gpt-6-2-astra-sol)
+
+### ChatGPT for Sales
+
+OpenAI introduced ChatGPT for Sales on November 17, 2026. The Sales plugin includes workflows for account research, call preparation, and follow-up. More than 30 new or updated partner plugins connect tools such as Salesforce and HubSpot. Business and Enterprise admins can enable the plugins from the Admin Console. [Source](https://openai.com/index/introducing-chatgpt-for-sales/)
+
+### Astra for Law update
+
+On November 17, 2026, OpenAI updated Astra for Law to use GPT-6.2 Astra with an expanded legal search index. All ChatGPT Enterprise customers can request access through the Trusted Access Program, including API access. [Source](https://openai.com/index/astra-law-6-2/)
+
+### Discounted API background completion
+
+On November 17, 2026, OpenAI added two discounted background completion windows to the Responses API public beta for GPT-6.2 Astra, GPT-6.2 Sol, GPT-6.1 Terra, and GPT-6 Luna. Model token rates are 30% below Standard for the two-hour window and 40% below Standard for the eight-hour window. [Source](https://developers.openai.com/api/docs/changelog)
+
+### ChatGPT for Academic Researchers expansion
+
+On November 16, 2026, OpenAI announced an expansion of ChatGPT for Academic Researchers with a goal of reaching 200,000 researchers worldwide. Applications for 50,000 new grants open November 23. Eligible applicants receive free ChatGPT Plus for themselves and up to two collaborators on a first-come, first-served basis. [Source](https://openai.com/index/expanding-chatgpt-for-academic-researchers/)
+
+### ChatGPT for Healthcare update
+
+On November 16, 2026, OpenAI improved how ChatGPT for Healthcare and ChatGPT for Clinicians find, evaluate, and cite medical evidence. OpenAI also added more than 20 plugins to ChatGPT for Healthcare. Eligible U.S. clinicians can use ChatGPT for Clinicians for free and access select plugins. Computer-use agents in ChatGPT Work and Codex can assist with referrals and documentation across existing applications. Healthcare organizations can configure application access and approval steps and record agent actions in audit logs. [Announcement](https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare/) [Computer-use details](https://openai.com/index/advancing-computer-use-for-healthcare-teams/)
+
+### OpenAI CSAM Image Classifier
+
+On November 16, 2026, OpenAI added the CSAM Image Classifier to its Moderations API for approved organizations at no cost. The classifier returns separate signals for suspected child sexual abuse material and suspected AI-generated child sexual abuse material so reviewers can prioritize flagged images. [Announcement](https://developers.openai.com/api/docs/guides/csam-classifier)
+
 ### ChatGPT Wallet
 
-U.S. ChatGPT Pro subscribers aged 18 or older can authorize purchases by their dot with an eligible U.S.-issued card and U.S. billing address as access rolls out. ChatGPT Wallet began rolling out in dots on November 13, 2026. Users review the merchant, items, total, and selected card, then approve each purchase with a security check such as Face ID or a fingerprint scan. The payment network supplies a token so the merchant and agent never receive the actual card details. Eligible card rewards and dispute protections still apply. OpenAI developed Wallet with American Express, Mastercard, and Visa. [Announcement](https://openai.com/index/introducing-chatgpt-wallet/)
+U.S. ChatGPT Pro subscribers aged 18 or older can authorize purchases by their dot with an eligible U.S.-issued card and U.S. billing address as access rolls out. ChatGPT Wallet began rolling out in dots on November 13, 2026. Users review the merchant, items, total, and selected card, then approve each purchase with a security check such as Face ID or a fingerprint scan. The payment network supplies a token so the merchant and agent never receive the actual card details. Eligible card rewards and dispute protections still apply. OpenAI developed Wallet with American Express, Chase, Mastercard, and Visa. Some merchants may decline agent purchases. Check the merchant confirmation to see whether the order went through. [Announcement](https://openai.com/index/introducing-chatgpt-wallet/)
 
 ### Email address changes in Admin Console
 
@@ -558,17 +614,19 @@ OpenAI also previewed [Ultrafast mode](https://openai.com/index/previewing-ultra
 
 ## Latest OpenAI Models
 
+OpenAI released GPT-6.2 Astra and GPT-6.2 Sol on November 17, 2026, in ChatGPT Work, Codex, and the API. Astra is the flagship for demanding coding and professional projects. Sol is the lower-cost model for everyday work and multistep tasks. In regular Chat, GPT-6 with Intelligent UI remains the current model release.
+
 GPT-6 Cyber is the latest specialized cybersecurity release, introduced November 5, 2026, with restricted Daybreak Red access through the API and Codex.
 
 Images 2.6 is the latest image release, dated November 4, 2026. GPT-6 Rosalind Research began a limited rollout on October 30 for approved life sciences Research customers in Work, Codex, and the API.
 
-GPT-6.1 Terra, released on October 26, 2026, is the newest general-purpose GPT release for Work, Codex, and the API. It targets visual reasoning, computer use, and writing.
+GPT-6.1 Terra, released on October 26, 2026, targets visual reasoning, computer use, and writing in Work, Codex, and the API.
 
 The October 16 GPT-6 Pro update adds faster responses, better plugin and tool use, and parallel agents in Chat for eligible Pro users.
 
 GPT-Rosalind is a specialized life sciences model with trusted access. The October 15 Rosalind Academic Plan expands sponsored access for eligible U.S. university labs. GPT-Live-1.1 began rolling out to all users across ChatGPT Voice, Codex, and dots that day, with API access coming soon. ChatGPT Voice also added the mini variant Quip.
 
-GPT-6 with Intelligent UI began rolling out in Chat on October 7, 2026. GPT-6 Pro received a Chat update on October 16 with faster responses, improved tool use, and parallel agents. GPT-6.1 Sol is the latest Sol release for Work, Codex, and the API. Released on September 29, 2026, it improves on GPT-6 Sol while retaining its $2 input and $10 output API prices per million tokens. Cached input costs $0.10 per million tokens. GPT-6 Astra is OpenAI's most capable general-purpose model in the family. GPT-6.1 Sol Ultrafast became available to all API users on October 8, 2026, with separate pricing and rate limits.
+GPT-6 with Intelligent UI began rolling out in Chat on October 7, 2026. GPT-6 Pro received a Chat update on October 16 with faster responses, improved tool use, and parallel agents. GPT-6.1 Sol Ultrafast became available to all API users on October 8, 2026, with separate pricing and rate limits.
 
 GPT-6 Sol and GPT-6 Luna were introduced on September 22, 2026. They provide faster, lower-cost options within the GPT-6 family.
 
